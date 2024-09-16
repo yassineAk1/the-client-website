@@ -13,10 +13,10 @@ Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je
 Deze leertaak wordt behandeld in sprint 3 met verschillende workshops:
 
 - [Sprintplanning](sprintplanning.md)
-- [Briefing/debriefing](briefing-debriefing.md)
-- [Wireframes](wireframe.md)
-- [Flow layout](flow-layout.md)
-- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md)
+- [Briefing/debriefing](briefing-debriefing.md) 
+- [Prototyping](wireframe.md)
+- [Flow layout](flow-layout.md) 
+- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md) 
 - [Code conventies](code-conventies.md)
 
 
