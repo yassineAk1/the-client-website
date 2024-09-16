@@ -3,23 +3,19 @@
 ## Briefing/Debriefing
 _In het college S02W1-01-kickoff-the-client wordt behandeld wat een briefing en debriefing is._
 
-Schrijf een debriefing op basis van een briefing van een opdrachtgever.Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. 
-
-<img width="1387" alt="image" src="https://user-images.githubusercontent.com/1391509/192163684-20b3de5e-37a4-4efa-963d-3e6c57d57d48.png">
-
-De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. 
+Schrijf een debriefing op basis van een briefing van een opdrachtgever.Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. 
 Maar ook voor jou en je team om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 
 ### Aanpak
 
- 1. Lees de instructies van deze leertaak zorgvuldig door.
- 2. Kies één van de opdrachten 
- 3. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
- 4. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
- 5. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
- 6. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
- 7. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debriefing, dit zijn de onderlinge afspraken die voor de opdracht gelden.
+<img width="1387" alt="image" src="https://user-images.githubusercontent.com/1391509/192163684-20b3de5e-37a4-4efa-963d-3e6c57d57d48.png">
+
+ 1. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
+ 2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
+ 3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
+ 4. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
+ 5. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debriefing, dit zijn de onderlinge afspraken die voor de opdracht gelden.
 
 
 ### Het briefingproces van een opdracht. 
