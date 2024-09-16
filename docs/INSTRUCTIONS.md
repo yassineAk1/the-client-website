@@ -12,11 +12,12 @@ Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je
 ## Werkwijze
 Deze leertaak wordt behandeld in sprint 3 met verschillende workshops:
 
-- Briefing/debriefing
-- Wireframes
-- Flow
-- Typografie en leesbaarheid
-- Code conventies
+- [Sprintplanning](sprintplanning.md)
+- [Briefing/debriefing](briefing-debriefing.md)
+- [Wireframes](wireframe.md)
+- [Flow layout](flow-layout.md)
+- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md)
+- [Code conventies](code-conventies.md)
 
 
 ## Definition of done
