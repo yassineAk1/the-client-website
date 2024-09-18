@@ -25,7 +25,7 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki (user story, ontwerpbeslissingen, schetsen en code voorbeelden)
-- [ ] de website staat op Github en heeft een live url
+- [ ] De website staat op Github en heeft een live url
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever
 - [ ] De feedback van de opdrachtgever op de (eerste) debriefing is beschreven
 - [ ] De briefing en debriefing is gedocumenteerd in de Readme van de leertaak
