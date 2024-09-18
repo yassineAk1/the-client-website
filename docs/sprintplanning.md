@@ -1,5 +1,5 @@
-# The CLient - Website
+# The Client - Website
 
 ## Sprintplanning
 
-Project klaarzetten, analysefase doorlopen en briefin voorbereiden
+Project klaarzetten, analysefase doorlopen en briefing voorbereiden
