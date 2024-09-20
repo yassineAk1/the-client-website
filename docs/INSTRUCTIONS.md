@@ -14,11 +14,11 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 
 - [Sprintplanning](sprintplanning.md) - Maandag
 - [Briefing/debriefing](briefing-debriefing.md) - Maandag
-- [Prototyping](wireframe.md) - Woensdag
-- [Flow layout](flow-layout.md) - Maandag week 2
-- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md) - Woensdag week 2
-- [Code conventies](code-conventies.md) - Maandag week 3
-- [Sprint review](sprint-review.md) - Donderdag week 3
+- [Prototyping](wireframe.md) 
+- [Flow layout](flow-layout.md) 
+- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md) 
+- [Code conventies](code-conventies.md) 
+- [Sprint review](sprint-review.md) 
 
 
 ## Definition of done
