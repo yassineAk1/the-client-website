@@ -6,7 +6,7 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com
 
 
 
-## Inhoudsopgave
+## Inhoudsopgave Readme
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
