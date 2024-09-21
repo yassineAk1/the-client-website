@@ -1,4 +1,3 @@
-> _Fork_ deze leertaak en ga aan de slag. De instructie van deze leertaak staan in de [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
 # The Client - Website
 
 Ontwerp en maak een website voor een bedrijf en presenteer het resultaat
