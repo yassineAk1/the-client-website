@@ -11,7 +11,7 @@ Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel v
 
 - Bekijk het programma van sprint 2 op [programma.fdnd.nl](https://programma.fdnd.nl/)
 - Fork de leertaak en zet je project klaar op Github
-- Maak een project board aan en neem meteen de belangrijkste momenten over van het programma in je project board, zoals de code/design reviews en de sprint review
+- Maak een project board aan en neem de belangrijkste momenten over van het programma in je project board, zoals de code/design reviews, de opdrachten die in de programma staan en de sprint review
 - Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op een whiteboard te zetten. Een opdrachtgever kan door maximaal 4 studenten gekozen worden. 
 - Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
 - Na de briefing van de opdrachtgever werk je de debriefing uit. Stuur deze op naar de opdrachtgever.
