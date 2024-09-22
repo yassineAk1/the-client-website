@@ -14,4 +14,5 @@ Het doel van een Sprint Planning is om te bepalen wat er de komende sprint aan w
 - Maak een project board aan en neem meteen de belangrijkste momenten over van het programma in je project board, zoals de code/design reviews en de sprint review
 - Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op een whiteboard te zetten. Een opdrachtgever kan door maximaal 4 studenten gekozen worden. 
 - Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
-- Na de briefing van de opdrachtgever kun je beginnen met de debriefing uitwerken. Werk eerst je eigen debieifing uit, voeg het dan samen met andere studenten uit je squad. Stuur per squad 1 debriefing naar de opdrachtgever. 
+- Na de briefing van de opdrachtgever werk je de debriefing uit. Stuur deze op naar de opdrachtgever.
+- Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met je eerste ideeën schetsen en uitwerken ... 
