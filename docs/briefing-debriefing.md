@@ -25,17 +25,28 @@ De debriefing is noodzakelijk voor:
 
 ### Aanpak
 
- 1. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
+ 1. Maak  een _mindmap_ voor de debriefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
  2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
  3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
  4. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
  5. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debriefing, dit zijn de onderlinge afspraken die voor de opdracht gelden.
 
 
-### In een debriefing komen deze zaken aan bod:
+### Debriefing
+
 Voordat je een briefing van de opdrachtgever krijgt moet je je voorbereiden, zo zorg je ervoor dat je alle informatie hebt. Wat weet je al aan de hand van de beschrijving van de opdracht en wat weet je nog niet? Stel vragen op om tijdens de briefing te stellen aan de opdrachtgever.
 
-#### 1. Achtergrondinformatie
+In een debriefing komen deze zaken aan bod:
+
+##### 1. Communicatie
+
+Hoe gaan jullie communiceren? 
+- Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
+- Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in de agenda)
+- Maak een kanaal aan in Teams met de coach en studenten die detzelfde opdracht hebben
+
+  
+#### 2. Achtergrondinformatie
 
 Wie is de opdrachtgever? 
 - Welke diensten biedt hij aan?
@@ -43,36 +54,37 @@ Wie is de opdrachtgever?
 - Zijn er belangrijk mijlpalen of gebeurtenissen?
 - …
 
-#### 2. Opdrachtomschrijving
+#### 3. Opdrachtomschrijving
 
 Omschrijf kort en bondig het probleem en vertaal dit in een uitdaging. 
 
 [Bedrijfsnaam] wil [een oplossing] om [het probleem] te voorkomen.
 
-#### 3. Aanleiding
+#### 4. Aanleiding
 
 Wat is de reden dat de opdracht wordt ingediend en waarom op dit moment.
 
 _Dit geeft antwoord op de vraag: Waarom doen we dit?_
 
-#### 4. Doelstelling
+#### 5. Doelstelling
 
 Elk bedrijf hanteert doelstellingen. 
 Afhankelijk van de grootte van het bedrijf kan het gaan om een doelstelling van het bedrijf, de afdeling of een persoonlijke doelstelling van jouw contactpersoon.
 
 _Door dit helder te omschrijven, kun je meedenken of deze doelstelling voldoende aansluit bij de opdrachtomschrijving en het achterliggende probleem en vice versa._
 
-#### 5. Oplevering
+#### 6. Oplevering
 
 Beschrijf zo concreet mogelijk wat je oplevert. 
 
 - Beschrijf exact wat er wordt opgeleverd (product/dienst)
-- Welke tone of voice hanteer je? Huisstijl?
+- Welke tone of voice hanteer je? Moet het voldoen aan een huisstijl?
+- Wat is de content? Zijn er al teksten, visuals, foto's of andere assets die gebruikt kunnen worden?
 - …
 
 _Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve terugkoppeling van de opdrachtgever heb je direct zwart-op-wit een goedkeuring._
 
-#### 6. Randvoorwaarden
+#### 7. Randvoorwaarden
 
 - Wat hoort niet bij de oplevering?
 - Wat is de planning van het project?
@@ -84,7 +96,7 @@ _Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve te
 - Zijn er obstakels denkbaar die extern liggen?
 - …
 
-#### 7. Gebruikers van het eindresultaat
+#### 8. Gebruikers van het eindresultaat
 
 Voor wie is de website bedoeld? 
 
@@ -95,7 +107,7 @@ Voor wie is de website bedoeld?
 - Hoe denken zij over het gebruik van het product of dienst?
 - …
 
-#### 8. Relatie met andere projecten
+#### 9. Relatie met andere projecten
 
 Is het onderdeel van een groter system of website? Is er een koppeling naar een ander system? Is het onderdeel van een grote campagne?
 
