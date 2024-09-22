@@ -2,9 +2,12 @@
 
 ## Sprint planning
 
-De Sprint planning vindt plaats aan het begin van elke sprint. Je begint een project altijd met een Sprint Planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
+De Sprint planning vindt plaats aan het begin van elke sprint. 
+Je begint een project altijd met een Sprint planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
+Het doel van een Sprint planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden.
 
-Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel van een Sprint planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden. In de Sprint planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
+Bij FDND werk je 4 sprints aan een opdracht van een opdrachtgever. 
+In de Sprint planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je uitleg over de opdracht.. 
 
 
 ## Aanpak
