@@ -2,7 +2,7 @@
 
 ## Briefing/Debriefing
 
-Schrijf een debriefing op basis van een briefing van een opdrachtgever.
+Schrijf een debriefing op basis van de briefing van een opdrachtgever.
 
 
 ### Het briefingproces van een opdracht
