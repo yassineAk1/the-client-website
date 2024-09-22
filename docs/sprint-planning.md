@@ -1,18 +1,18 @@
 # The Client - Website
 
-## Sprint Planning
+## Sprint planning
 
-De Sprint Planning vindt plaats aan het begin van elke Sprint. Je begint een project altijd met een Sprint Planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
+De Sprint planning vindt plaats aan het begin van elke sprint. Je begint een project altijd met een Sprint Planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
 
-Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel van een Sprint Planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden. In de Sprint Planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
+Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel van een Sprint planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden. In de Sprint planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
 
 
 ## Aanpak Sprint Planning
 
 - Bekijk het programma van sprint 2 op [programma.fdnd.nl](https://programma.fdnd.nl/)
-- Fork deze leertaak en maak een nieuw _Project Board_ aan
-- Neem belangrijke momenten en opdrachten uit het programma op in je _Project Board_, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review
-- Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op een whiteboard te zetten. Een opdrachtgever kan door maximaal 4 studenten uit dezelfde squad gekozen worden. 
+- Fork deze leertaak en maak een nieuw _Project Board_ aan.
+- Neem belangrijke momenten en opdrachten uit het programma op in je _Project Board_, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review.
+- Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 4 studenten per squad. Niet dezelfde studenten als het team van de squadpage.
 - Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
 - Na de briefing van de opdrachtgever werk je de debriefing uit. Stuur per squad 1 debriefing op naar de opdrachtgever.
 - Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met je eerste ideeën schetsen en uitwerken ... 
