@@ -1,7 +1,6 @@
 # The Client - Website
 
 ## Briefing/Debriefing
-_In het college S02W1-01-sprintplanning-the-client wordt behandeld wat een briefing en debriefing is._
 
 Schrijf een debriefing op basis van een briefing van een opdrachtgever.
 
