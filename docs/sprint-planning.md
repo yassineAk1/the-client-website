@@ -4,7 +4,7 @@
 
 De Sprint Planning vindt plaats aan het begin van elke Sprint. Je begint een project altijd met een Sprint Planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
 
-Het doel van een Sprint Planning is om te bepalen wat er de komende sprint aan werk opgepakt voor een opdrachtgever. In de Sprint Planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
+Het doel van een Sprint Planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden voor een opdracht van een opdrachtgever. In de Sprint Planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
 
 
 ## Aanpak Sprint Planning
