@@ -10,8 +10,8 @@ Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel v
 ## Aanpak Sprint Planning
 
 - Bekijk het programma van sprint 2 op [programma.fdnd.nl](https://programma.fdnd.nl/)
-- Fork deze leertaak en maak een nieuwe project board aan
-- Neem belangrijke momenten en opdrachten uit het programma op in je project board, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review
+- Fork deze leertaak en maak een nieuwe _Project Board_ aan
+- Neem belangrijke momenten en opdrachten uit het programma op in je _Project Board_, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review
 - Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op een whiteboard te zetten. Een opdrachtgever kan door maximaal 4 studenten uit dezelfde squad gekozen worden. 
 - Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
 - Na de briefing van de opdrachtgever werk je de debriefing uit. Stuur per squad 1 debriefing op naar de opdrachtgever.
