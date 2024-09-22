@@ -1,5 +1,5 @@
 # The Client - Website
-Ontwerp en maak een website voor een bedrijf en presenteer het resultaat.
+Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
 
 ## Context
 Deze leertaak hoort bij sprint 2 The Client. 
