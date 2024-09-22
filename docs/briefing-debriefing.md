@@ -25,7 +25,7 @@ De debriefing is noodzakelijk voor:
 
 ### Aanpak
 
- 1. Maak  een _mindmap_ voor de debriefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
+ 1. begin met het maken van een _mindmap_ met alle onderdelen van een debriefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
  2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
  3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af.
  4. Werk eerst je eigen debriefing uit en voeg het dan samen met de andere studenten uit je squad.
@@ -35,8 +35,6 @@ De debriefing is noodzakelijk voor:
 
 
 ### Debriefing
-
-Voordat je een briefing van de opdrachtgever krijgt moet je je voorbereiden, zo zorg je ervoor dat je alle informatie hebt. Wat weet je al aan de hand van de beschrijving van de opdracht en wat weet je nog niet? Schrijf wat jenog niet weer op om tijdens de briefing te vragen aan de opdrachtgever.
 
 In een debriefing komen deze zaken aan bod:
 
