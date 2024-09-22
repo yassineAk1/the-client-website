@@ -1,38 +1,18 @@
 # The Client - Website
 
-## Sprintplanning
+## Sprint Planning
+
+De Sprint Planning vindt plaats aan het begin van elke Sprint. Je begint een project altijd met een Sprint Planning, dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht.
+
+Het doel van een Sprint Planning is om te bepalen wat er de komende sprint aan werk opgepakt kan worden om de meeste waarde te leveren aan de klant. In de Sprint Planning van Sprint 2 ga je kennismaken met de opdrachtgever en krijg je een briefing. 
 
 
-Project klaarzetten, analysefase doorlopen en briefing voorbereiden
+## Aanpak Sprint Planning
 
-Planning van de sprint in het project board zetten
-met de wat je wanneer af moet hebben en de eerste oplevering in de sprint review 
-
-Programma Sprintplanning met opdrachtgever
-
-Kennismaken opdrachtgever, studenten en coach
-
-Briefing opdrachtgever; context en design challenge toelichten
-
-Afspraken maken; contactgegevens delen, communicatielijnen bespreken en sprint reviews vooruit plannen
-
-Het project in kaart brengen; core functionaliteit bespreken, taken afleiden en prioriteiten bepalen a.h.v. de backlog, het design en de content
-
-
-Planning bekijken op programma.fdnd.nl en verwerken in project board (project board uitleggen met een link)
-DOD's bekijken. 
-
-
-
-Briefing van de opdrachtgever Kennismaken met de opdrachtgever, uitleg over de opdracht en afspraken maken.
-
-Briefing/debriefing geen contact gegevens op github
-Teams kanaal aanmaken per opdrachtgever met de studenten
-max4 studenten per squad op een project
-
-Kennismaken opdrachtgever, studenten en coach
-Briefing opdrachtgever; context en design challenge toelichten
-Afspraken maken; contactgegevens delen, communicatielijnen bespreken en sprint reviews vooruit plannen
-Het project in kaart brengen; core functionaliteit bespreken, taken afleiden en prioriteiten bepalen a.h.v. de backlog, het design en de content
-
+- Bekijk het programma van sprint 2 op [programma.fdnd.nl](https://programma.fdnd.nl/)
+- Fork de leertaak en zet je project klaar op Github
+- Maak een project board aan en neem meteen de belangrijkste momenten over van het programma in je project board, zoals de code/design reviews en de sprint review
+- Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten
+- Bereid samen met andere studenten de briefing voor
+- Na de briefing van de opdrachtgever kun je beginnen met de debriefing uitwerken. Werk eerst je eigen debreifing uit, voeg het dan samen emt andere studenten uit je squad. Stuur per squad 1 debriefing naar de opdrachtgever
 
