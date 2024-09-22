@@ -12,7 +12,7 @@ Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je
 ## Werkwijze
 Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aangeboden:
 
-- [Sprintplanning](sprintplanning.md) - Maandag
+- [Sprint planning](sprint-planning.md) - Maandag
 - [Briefing/debriefing](briefing-debriefing.md) - Maandag
 - [Prototyping](prototyping.md) 
 - [Flow layout](flow-layout.md) 
