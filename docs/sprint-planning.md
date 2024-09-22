@@ -14,5 +14,5 @@ Bij FDND werk je een semester aan een opdracht van een opdrachtgever. Het doel v
 - Neem belangrijke momenten en opdrachten uit het programma op in je _Project Board_, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review.
 - Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 4 studenten per squad. Niet dezelfde studenten als het team van de squadpage.
 - Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
-- Na de briefing van de opdrachtgever werk je de debriefing uit. Stuur per squad 1 debriefing op naar de opdrachtgever.
+- Na de briefing van de opdrachtgever werk eerst je eigen debriefing volledig uit. Maak daarna 1 debriefing met de studenten uit je squad en stuur het op naar de opdrachtgever.
 - Nu je weet wat (ongeveer) de bedoeling is kan je beginnen met je eerste ideeën schetsen en uitwerken ... 
