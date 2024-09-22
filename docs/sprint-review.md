@@ -27,7 +27,7 @@ Waarom doe je dit?
 
 
 #### Bereid je voor
-Voor wen goede Sprint Review heb je een een goede voorbereiding nodig. Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. In de Review gaat het erom dat we op een werkend onderdeel van een website feedback willen ontvangen. Dus zorg ervoor dat wat je presenteert (zo goed mogelijk) werkt. Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien. 
+Voor een goede Sprint Review heb je een een goede voorbereiding nodig. Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. In de Review gaat het erom dat we op een werkend onderdeel van een website feedback willen ontvangen. Dus zorg ervoor dat wat je presenteert (zo goed mogelijk) werkt. Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien. 
 
 
 #### Definieer het doel
