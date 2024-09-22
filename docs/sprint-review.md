@@ -4,8 +4,9 @@
 
 Opdracht en aanpak Sprint review
 
-Wat is een sprint review eigenlijk? 
+<!-- Wat is een sprint review eigenlijk? 
 Waarom doe je dit? 
+-->
 
 - Sprint review voorbereiden
 - feedback halen bij de opdrachtgever
