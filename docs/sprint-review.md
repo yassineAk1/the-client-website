@@ -4,7 +4,7 @@
 
 De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin het gemaakte werk wordt besproken met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is.
 
-Deze demonstratie moet letterlijk genomen worden. Het is dus geen PowerPoint-presentatie met daarin een weergave van de doelen en resultaten, maar het daadwerkelijk laten zien van het opgeleverde werk. Als het doel was om een website te ontwerpen en maken, moet de website getoond worden zodat de opdrachtgever het kunnen bekijken en uitproberen. 
+Deze demonstratie moet letterlijk genomen worden. Het is dus geen PowerPoint-presentatie met daarin een weergave van de doelen en resultaten, maar het daadwerkelijk laten zien van het opgeleverde werk. Als het doel was om een website te ontwerpen en maken, demonstreer je de website zodat de opdrachtgever het kan bekijken en uitproberen. 
 
 ### Aanpak Sprint Review 
 
