@@ -36,7 +36,7 @@ De debriefing is noodzakelijk voor:
 
 ### Debriefing
 
-In een debriefing komen deze zaken aan bod:
+In een debriefing komen deze onderdelen aan bod:
 
 #### 1. Communicatie
 
