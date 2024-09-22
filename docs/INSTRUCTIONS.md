@@ -25,7 +25,7 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 
 Deze opdracht is done als:
 - [ ] De website staat op Github en heeft een live url
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Log
+- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Log
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de (eerste) debriefing is gedocumenteerd en verwerkt
 - [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint review en de feedback gedocumenteerd
 - [ ] Je hebt verschillende variaties geschetst en een ontwerp gemaakt voor de responsive layout en feedback gekregen in Github Issues
