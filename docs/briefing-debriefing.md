@@ -46,15 +46,15 @@ In een debriefing komen deze zaken aan bod:
 Hoe gaan jullie communiceren? 
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
 - Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
-- Maak een kanaal aan in Teams met de coach en studenten die detzelfde opdracht hebben
+- Maak een kanaal aan in Teams met de coach en studenten die dezelfde opdracht hebben
 
   
 #### 2. Achtergrondinformatie
 
 Wie is de opdrachtgever? 
-- Welke diensten biedt hij aan?
+- Welke diensten worden aangeboden?
 - Wat zijn de unique selling points van het bedrijf?
-- Zijn er belangrijk mijlpalen of gebeurtenissen?
+- Zijn er belangrijke mijlpalen of gebeurtenissen?
 - …
 
 #### 3. Opdrachtomschrijving
