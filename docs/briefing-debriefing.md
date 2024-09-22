@@ -29,7 +29,7 @@ De debriefing is noodzakelijk voor:
  1. Maak  een _mindmap_ voor de debriefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
  2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
  3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af.
- 4. Werk je eigen debriefing uit en voeg het dan samen met de andere studenten uit je squad.
+ 4. Werk eerst je eigen debriefing uit en voeg het dan samen met de andere studenten uit je squad.
  5. Stuur per squad 1 debriefing naar de opdrachtgever. 
  7. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debriefing, dit zijn de onderlinge afspraken die voor de opdracht gelden.
 
@@ -37,7 +37,7 @@ De debriefing is noodzakelijk voor:
 
 ### Debriefing
 
-Voordat je een briefing van de opdrachtgever krijgt moet je je voorbereiden, zo zorg je ervoor dat je alle informatie hebt. Wat weet je al aan de hand van de beschrijving van de opdracht en wat weet je nog niet? Stel vragen op om tijdens de briefing te stellen aan de opdrachtgever.
+Voordat je een briefing van de opdrachtgever krijgt moet je je voorbereiden, zo zorg je ervoor dat je alle informatie hebt. Wat weet je al aan de hand van de beschrijving van de opdracht en wat weet je nog niet? Schrijf wat jenog niet weer op om tijdens de briefing te vragen aan de opdrachtgever.
 
 In een debriefing komen deze zaken aan bod:
 
@@ -47,6 +47,7 @@ Hoe gaan jullie communiceren?
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
 - Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
 - Maak een kanaal aan in Teams met de coach en studenten die dezelfde opdracht hebben
+- Hoe sturen jullie vanmiddag de debriefing op? Per mail? 
 
   
 #### 2. Achtergrondinformatie
