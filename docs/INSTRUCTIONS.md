@@ -14,7 +14,7 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 
 - [Sprintplanning](sprintplanning.md) - Maandag
 - [Briefing/debriefing](briefing-debriefing.md) - Maandag
-- [Prototyping](wireframe.md) 
+- [Prototyping](prototyping.md) 
 - [Flow layout](flow-layout.md) 
 - [Typografie en leesbaarheid](typografie-en-leesbaarheid.md) 
 - [Code conventies](code-conventies.md) 
