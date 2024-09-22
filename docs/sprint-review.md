@@ -35,11 +35,11 @@ Het is belangrijk om het doel van de Sprint Review duidelijk te communiceren naa
 
 
 #### Demonstratie van het werk
-Tijdens de Sprint Review geef je een demonstratie van de website aan de aanwezigen. Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te illustreren. Focus op de belangrijkste functionaliteiten en presenteer deze in detail. Waarom? Om de betrokkenheid van de belanghebbenden te vergroten.
+Tijdens de Sprint Review geef je een demonstratie van de website. Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te laten zien. Focus op de belangrijkste functionaliteiten en presenteer deze in detail. Met de demonstratie test je of het werk voldoet aan de vraag van de opdrachtgever. 
 
 
 #### Faciliteer feedback
-Een Sprint Review is bedoeld om feedback te geven op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever wordt aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
+Een Sprint Review is bedoeld om feedback te krijgen op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever wordt aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
 
 
 #### Beoordeel de feedback
