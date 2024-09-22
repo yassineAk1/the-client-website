@@ -45,7 +45,7 @@ In een debriefing komen deze zaken aan bod:
 
 Hoe gaan jullie communiceren? 
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
-- Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in de agenda)
+- Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
 - Maak een kanaal aan in Teams met de coach en studenten die detzelfde opdracht hebben
 
   
