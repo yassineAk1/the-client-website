@@ -24,9 +24,9 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 ## Definition of done
 
 Deze opdracht is done als:
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki (user story, ontwerpbeslissingen, schetsen en code voorbeelden)
 - [ ] De website staat op Github en heeft een live url
-- [ ] Er is een volledige debriefing geschreven voor de opdrachtgever
-- [ ] De feedback van de opdrachtgever op de (eerste) debriefing is beschreven
-- [ ] De briefing en debriefing is gedocumenteerd in de Readme van de leertaak
+- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in jouw I Love Web - Learning Log
+- [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de (eerste) debriefing is gedocumenteerd en verwerkt
+- [ ] Je hebt verschillende variaties geschetst en een ontwerp gemaakt voor de layout en feedback gekregen in Github Issues
+- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je hebt code uitgelegd en feedback gekregen in Github Issues
+
