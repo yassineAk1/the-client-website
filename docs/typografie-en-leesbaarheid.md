@@ -2,7 +2,7 @@
 
 ## Typografie & leesbaarheid
 
-Workshop over het gebruik van typografie op het web en waasr je rekening mee moet houden om je teksten goed leesbaar te maken. 
+Workshop over typografie op het web en waar je rekening mee moet houden om je teksten goed leesbaar te maken. 
 
 <!--
 Begin met hierarchie
