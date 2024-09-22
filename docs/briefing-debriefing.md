@@ -39,7 +39,7 @@ Voordat je een briefing van de opdrachtgever krijgt moet je je voorbereiden, zo 
 
 In een debriefing komen deze zaken aan bod:
 
-##### 1. Communicatie
+#### 1. Communicatie
 
 Hoe gaan jullie communiceren? 
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
