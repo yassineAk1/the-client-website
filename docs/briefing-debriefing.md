@@ -14,7 +14,7 @@ Voordat je naar de briefing van de opdrachtgever gaat bereid je je voor op het g
 
 ![image](https://github.com/user-attachments/assets/eb6573ed-d174-403f-a08e-50b97ed4650a)
 
-_Het proces van briefing / debriefing, stel je vragen tijdens de briefing met de opdrachtgever, schrijf een debriefing en werk iteratief aan de website, laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever
+_Het proces van briefing / debriefing, stel je vragen tijdens de briefing met de opdrachtgever, schrijf een debriefing en werk iteratief aan de website, laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever_
 
 Het briefingproces bestaat uit twee delen:
  - Briefing van de opdrachtgever
