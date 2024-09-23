@@ -13,7 +13,7 @@ In de Sprint planning van Sprint 2 ga je kennismaken met de opdrachtgever en kri
 ## Aanpak
 
 1. Bekijk het programma van sprint 2 op [programma.fdnd.nl](https://programma.fdnd.nl/)
-2. Fork deze leertaak en post de url van je repo in het Teams kanaal #sprint 2 
+2. Fork deze leertaak en post de url van je repo in het Teams kanaal _#Sprint 02 - The Client_.
 3. Maak een nieuw _Project Board_ aan op Github. Neem de belangrijke momenten en opdrachten uit het programma op in je _Project Board_, zoals de code/design reviews, de opdrachten die op het programma staan en de sprint review.
 4. Nu ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 4 studenten per squad. Niet dezelfde studenten als het team van de squadpage.
 5. Bereid met studenten uit je squad die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing.
