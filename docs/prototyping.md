@@ -37,7 +37,7 @@ Er bestaan verschillende (online) tools om sitemaps mee te maken. In sprint 2 ga
 #### Aanpak
 Teken een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen (homepage, overzichtspagina, detailpagina, aanmeldpagina, contactpagina, etc...)
 
-1. Schrijf boveaan de sitemap de ontwerpvraag van de opdrachtgever.
+1. Schrijf bovenaan de sitemap de ontwerpvraag van de opdrachtgever.
 2. Onderzoek welke pagina's er zijn of gaan komen. Gebruik de briefing die je hebt gehad, de documentatie en het design dat je hebt gekregen.
 3. Teken de homepage bovenaan en geef deze pagina nummer 0.
 4. Teken daarna alle pagina's die onder de homepage vallen (_primary pages_), trek rechte lijnen tussen de homepage en de _primary pages_, schrijf de titel van de pagina op en geef de nummers 1.0, 2.0, 3.0, ...
