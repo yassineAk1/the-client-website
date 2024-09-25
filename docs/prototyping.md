@@ -115,10 +115,12 @@ Je gaat een breakdown schets maken van het ontwerp dat je hebt gemaakt (of gekre
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-## En wat nu?
+## En wat nu, voor komende vrijdag?
 
-1. Maak een nieuw issue aan op je project, en noem deze “Opzet in HTML”.
-2. Voeg je schetsen toe; hiermee heb je het probleem geanalyseerd en al deels ontworpen.
-3. Begin aan de hand van je schetsen met het schrijven van de HTML in je editor. Zorg voor een goed fundament, waarop je volgende week CSS kunt toepassen. Probeer dus nog _geen CSS_ te schrijven, maar te beginnen met de content en de structuur, waarmee je een werkend prototype bouwt. Valideer je HTML regelmatig om fouten te voorkomen.
-4. Voor het integreren koppel je commit(s) aan je issue door het issue # nummer in je commit message(s) te noemen.
-5. Zet voor vrijdag je prototype live via GitHub Pages, en plaats de link bij je repo.
+1. Maak een nieuw issue aan op je project, en noem deze “Prototype naar HTML”.
+2. Voeg je schetsen en eventuele opmerkingen toe aan je issue; hiermee heb je het probleem geanalyseerd en al deels ontworpen.
+3. Begin aan de hand van je schetsen met het schrijven van de HTML in je editor. Zorg voor een goed fundament, waarop je volgende week CSS kunt toepassen. Probeer dus nog _geen CSS_ te schrijven, maar te beginnen met de content en de structuur, waarmee je een werkend prototype bouwt. [Valideer je HTML](https://validator.w3.org/) regelmatig om fouten te voorkomen.
+4. Voor het integreren koppel je commit(s) aan je issue door het # issue nummer in je commit message(s) te noemen. Hiermee laat je in het issue je iteraties zien.
+5. Zet voor vrijdag je HTML prototype live via GitHub Pages, en plaats de link bij je repo.
+
+Tijdens de code & design review vrijdag gaan we je HTML reviewen.
