@@ -68,9 +68,10 @@ _Met een Wireflow laat je zien hoe een interactie op een pagina eruit komt te zi
 Teken een nette Wireframe van de pagina die je gaat bouwen in sprint 2. Als je een interactie wil gaan ontwerpen en bouwen, schets dan ook een Wireflow. 
 
 1. Schrijf de titel en een uitleg van de pagina die je gaat ontwerpen bovenaan je schets.
-2. Schets de hele pagina die je gaat maken. Geef duidelijk aan welke onderdelen waar komen te staan. Gebruik visuele hiërarchie voor belangrijke informatie, belangrijke details en achtergrondinformatie. Schrijf de titels uit en maak duidelijk wat interactieve elementen zijn, zoals buttons en links. Schets netjes met rechte lijnen en zorg dat elementen de juiste verhoudingen en formaten hebben. 
-3. Bespreek je schets met een klasgenoot, mentor of docent. Schrijf de feedback op of maak meteen een nieuwe schets. Schets meerdere ideeën uit.
-4. Schets zo nodig interacties uit in een aparte Wireflow.
+2. Schets de hele pagina die je gaat maken. Geef duidelijk aan welke onderdelen waar komen te staan. Gebruik visuele hiërarchie voor belangrijke informatie, belangrijke details en achtergrondinformatie. Schrijf de titels uit en maak duidelijk wat interactieve elementen zijn, zoals buttons en links. Schets netjes met rechte lijnen en zorg dat elementen de juiste verhoudingen en formaten hebben.
+3. Schets voor responive, hoe ziet de layout er uit voor *Small*, *Medium* en *Large* schermen. 
+4. Bespreek je schetsen met een klasgenoot, mentor of docent. Schrijf de feedback op of maak meteen een nieuwe schets. Schets meerdere ideeën uit.
+5. Schets zo nodig interacties uit in een aparte Wireflow.
 
 #### Bronnen
 - [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
