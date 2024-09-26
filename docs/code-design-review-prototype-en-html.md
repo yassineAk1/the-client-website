@@ -45,10 +45,7 @@ Zo krijgt iedereen vandaag 2 reviews... doe reviews van studenten die aan een an
 
 Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
 
-- [Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [HTML Validator W3C](https://validator.w3.org)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [CSS Grid reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
