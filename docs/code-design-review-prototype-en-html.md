@@ -19,7 +19,7 @@ Vandaag doe je een code review van de HTML en het prototype ontwerp. Werk steeds
 3. Schrijf daarna je naam naast die van een klasgenoot aan een andere tafel, waarbij je onderstaande code en design review gaat doen.
 4. Als je klaar bent, ga je verder met een andere student aan een andere tafel, en schrijf je ook daar je naam.
 5. Zorg bij je eigen code en design reviews dat je die krijgt van studenten die jij niet gereviewd hebt.
-6. Aan het eind van de ochtend staan er dus vier namen achter jouw naam, die jouw werk gereviewd hebben. En staat jouw naam bij vier andere studenten.
+6. Aan het eind van de ochtend staan er dus vier namen achter jouw naam, die jouw werk gereviewd hebben. En staat jouw naam bij vier andere studenten, waarvan jij het werk gereviewd hebt.
 
 
 #### Prototype in HTML
