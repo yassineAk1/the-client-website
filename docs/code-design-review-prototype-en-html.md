@@ -12,7 +12,7 @@ Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code
 
 ### Aanpak
 
-Vandaag doe je een code review van de HTML en het prototype ontwerp. Werk steeds in duo's voor de review; doe met 2 studenten minimaal 4 reviews bij een andere student, en zorg dat je 4 reviews krijgt van andere duo's.
+Vandaag doe je een code review van de HTML en het prototype ontwerp. Werk steeds in duo's voor de review; julie doen met 2 studenten minimaal 2 reviews bij een andere student, en zorg dat je zelf ook 2 reviews krijgt van andere duo's.
 
 1. [Push je laatste werk naar GitHub, publiceer je site via GitHub Pages, plaats een link bij je repo, zet Issues aan](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#en-wat-nu-voor-komende-vrijdag).
 2. Schrijf als je klaar bent voor een review je naam op het whiteboard. 
