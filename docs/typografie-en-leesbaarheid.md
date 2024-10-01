@@ -16,18 +16,14 @@ Het is gebruikelijk om aan de `<html>` of de `<body>` de basis font styling te d
 - font-size
 - color
 
-Vervolgens kun je voor elementen zoals headings en paragrafen de font styling aanpassen. 
+De font-family die je in de body of html zet zal ook gelden voor de elementen die daarop volgen, dat heet *inheritence*. Je hoeft daarom maar op 1 plek de font-family te zetten. De font-size wordt niet doorgegeven aan de elementen die genest zijn. Als je specifieke font sizes nodig hebt voor een heading of paragrafen moet je per element de font size bepalen. 
 
 #### Aanpak
-
-1. Haal de font waardes uit het design dat je hebt gekregen in Figma, zoals font-family, font-size en kleuren. 
-2. Zet de basis font styling op in de html of het body element. 
-3. Pas daarna voor de belangrijkste tekst, de belangrijke details en achtergrondinformatie de font styling aan, zoals de `<h1>`, `<h2>`, `<h3>` en `<p>`. Controleer in de browser met de *inspector* de font styling van alle tekst elementen.
+Analyseer de font waardes uit het design dat je hebt gekregen in Figma, zoals font-family, font-size en kleuren. Zet de basis font styling op in de html of het body element. Pas daarna voor de belangrijkste tekst, de belangrijke details en achtergrondinformatie de font styling aan zoals het in het aangeleverde ontwerp staat, zoals de `<h1>`, `<h2>`, `<h3>` en `<p>`. Controleer in de browser met de *inspector* de font styling van alle tekst elementen.
 
 Als je nog niet bekend bent met (basis) font styling in CSS lees dan het artikel [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals), bekijk de voorbeelden en probeer het uit in je opdracht.
 
 ### Regellengte en regelafstand
-
 
 > A column is easy to read if it's wide enough to accommodate an average of 10 words per line. - Josef Müller-Brockmann
 
@@ -35,14 +31,13 @@ De beroemde grafisch ontwerper Josef Müller-Brockman (1914-1996) heeft uitgangs
 
 > Anything from 45 to 75 characters is widely regarded as a satisfactory line length for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal. For multiple column work, a better average is 40 to 50 characters. - Robert Bringhurst 
 
-Voor website kan je op verschillende manieren de lengte van tekst-regels bepalen. Omdat een website het moet doen op allerlei schermen is het aan te bevelen de regellengte niet vast te zetten, dan kan het zomaar gebeuren dat de teksten niet in een scherm passen. Een veel gebruikte manier is de kaders met teksten een maximale breedte geven. Met `max-width` zorg je ervoor dat de teksten op een smal scherm passen, maar niet te lang worden op brede schermen zodat de teksten goed leesbaar blijven. 
+#### Max-width
+De regel-lengte kan je op verschillende manieren bepalen door het element een breedte te geven. Omdat een website het moet doen op allerlei schermen is het aan te bevelen de regellengte geen vaste waarde te geven, dan kan het zomaar gebeuren dat de teksten niet in een scherm passen. Een veel gebruikte manier is de kaders met teksten een maximale breedte geven. Met `max-width` zorg je ervoor dat de teksten op een smal scherm passen, maar niet te lang worden op brede schermen zodat de teksten goed leesbaar blijven. 
 
 #### Aanpak
+Geef een paragraaf met tekst een maximale breedte met `max-width`. Gebruik pixels om niet meer dan 10-12 woorden op een regel te tonen. Test de code in een browser en verander de schermbreedte. Hoeveel pixels mag een paragraaf worden  voor een goede regellengte?
 
-1. Geef een paragraaf met tekst een maximale breedte met `max-width`. Gebruik pixels om niet meer dan 10-12 woorden op een regel te tonen. Test de code in een browser en verander de schermbreedte. Hoeveel pixels mag een paragraaf worden  voor een goede regellengte?
-2. Je kan de breedte ook met `em` of bijvoorbeeld met `ch` bepalen. Probeer uit welke waardes je kan gebruiken om de regellengte niet te lang te maken. Bv `max-width: 60ch` of `max-width: 20em`. Hoeveel woorden staan er zo maximaal op een regel? 
-
-
+Je kan de breedte ook met `em` of bijvoorbeeld met `ch` bepalen. Probeer uit welke waardes je kan gebruiken om de regellengte niet te lang te maken. Bv `max-width: 60ch` of `max-width: 20em`. Hoeveel woorden staan er zo maximaal op een regel? Zoek ook uit wat een `em` is, en wat de `ch` unit doet. 
 
 ### Bronnen
 
