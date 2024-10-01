@@ -16,7 +16,7 @@ Het is gebruikelijk om aan de `<html>` of de `<body>` de basis font styling te d
 - font-size
 - color
 
-Vervolgens kun je voor geneste elementen zoals headings en paragrafen de font styling aanpassen. 
+Vervolgens kun je voor elementen zoals headings en paragrafen de font styling aanpassen. 
 
 #### Aanpak
 
@@ -39,7 +39,7 @@ Voor website kan je op verschillende manieren de lengte van tekst-regels bepalen
 
 #### Aanpak
 
-1. Geef een paragraaf met tekst een maximale breedte met `max-width`. Gebruik pixels om niet meer dan 10-12 woorden op een regel te tonen. Test de cod ein een browser en verander de schermbreedte. Hoeveel pixels mag een paragraaf worden  voor een goede regellengte?
+1. Geef een paragraaf met tekst een maximale breedte met `max-width`. Gebruik pixels om niet meer dan 10-12 woorden op een regel te tonen. Test de code in een browser en verander de schermbreedte. Hoeveel pixels mag een paragraaf worden  voor een goede regellengte?
 2. Je kan de breedte ook met `em` of bijvoorbeeld met `ch` bepalen. Probeer uit welke waardes je kan gebruiken om de regellengte niet te lang te maken. Bv `max-width: 60ch` of `max-width: 20em`. Hoeveel woorden staan er zo maximaal op een regel? 
 
 
@@ -57,3 +57,4 @@ Voor website kan je op verschillende manieren de lengte van tekst-regels bepalen
 [Typography for Developers - CSS Tricks](https://css-tricks.com/typography-for-developers/)
 
 
+[font-size - MDN, met uitleg over EM](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
