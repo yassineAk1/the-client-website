@@ -10,10 +10,10 @@ Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een 
 
 #### Deeltaak layout-in-css
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
-2. Ga samen met jullie mentor de 8 basic layouts af en bekijk hoe jullie dit hebben opgelost. Per layout schrijf één student haar uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
+2. Ga samen met jullie mentor de 8 basic layouts af. Per layout schrijft één student zijn/haar uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
 3. Heeft iedereen dezelfde oplossing als die op het whiteboard? Bespreek met elkaar de verschillen. CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen. 
-4. Herhaal stap 2 en 3 voor alle 8 de basic layouts.
-5. Herhaal stap 2 en 3 voor alle advanced layouts die zijn gemaakt. Heeft niemand die gemaakt? Werk dan met elkaar als groep minimaal één advanced layout uit op het whiteboard (inclusief breakdownschets). 
+4. Herhaal stap 2 en 3 voor alle 8 de basic layouts. Elke student laat dus minimaal één layout zien op het whiteboard.
+5. Herhaal stap 2 en 3 voor de advanced layouts die zijn gemaakt. Heeft niemand een advanced layout gemaakt? Werk dan met elkaar als groep minimaal één advanced layout uit op het whiteboard (inclusief breakdownschets). 
 
 
 #### Leertaak the-client-website
