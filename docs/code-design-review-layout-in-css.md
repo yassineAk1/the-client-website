@@ -9,20 +9,22 @@ Deze week ben je aan de slag gegaan met Layout Modes in CSS. Dit heb je eerst ge
 Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een code-review op de leertaak 'the-client-website'. 
 
 #### Deeltaak layout-in-css
+
 Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
 
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
-2. Ga samen met jullie mentor de 8 basic layouts af. Per layout schrijft één student zijn/haar uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
+2. Ga samen met jullie mentor de 9 basic layouts af. Per layout schrijft één student zijn/haar uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
 3. Heeft iedereen dezelfde oplossing als die op het whiteboard? Bespreek met elkaar de verschillen. CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen. 
-4. Herhaal stap 2 en 3 voor alle 8 de basic layouts. Elke student laat dus minimaal één layout zien op het whiteboard.
+4. Herhaal stap 2 en 3 voor alle 9 de basic layouts. Elke student laat dus minimaal één layout zien op het whiteboard.
 5. Herhaal stap 2 en 3 voor de advanced layouts die zijn gemaakt. Heeft niemand een advanced layout gemaakt? Werk dan met elkaar als groep minimaal één advanced layout uit op het whiteboard (inclusief breakdownschets). 
 
 #### Leertaak the-client-website
+
 Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's.
 
-1. Pak het ontwerp in de Hifi schets of Figma erbij en de gemaakte breakdownschets.
-2. Bespreek met elkaar welke layout geschikt zou zijn. Hint 1: Normal Flow, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout modes zijn ook te combineren.
-3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of deze layout logisch, duidelijk en bruikbaar is opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
+1. Pak het ontwerp in de Hifi schets of Figma erbij, en de gemaakte breakdownschets.
+2. Bespreek met elkaar welke Layout Modes geschikt zouden zijn voor de verschillende onderdelen in het ontwerp. Hint 1: Flow Layout, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout Modes zijn net als HTML elementen ook te nesten. Je kunt bijvoorbeeld dus een Flexible Box Layout gebruiken _in_ een Grid item.
+3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of de verschillende Layout Modes logisch, duidelijk en bruikbaar zijn opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
 4. Schrijf verbeteringen of suggesties over de gebruikte CSS ook als reactie in het “Layout in CSS” issue.
 
 
