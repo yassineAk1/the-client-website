@@ -11,7 +11,7 @@ Code conventions sprint 2
 
 Waar ben je nu? Van HTML naar CSS
 
-- HTML netjes indenten
+- HTML netjes indenten en ademruimte (white space van code - wooow - inception)
 - CSS heeft zelfde volgorde als HTML
 - CSS van groot naar klein (generiek naar specifiek)
 - Nesten van Media queries
