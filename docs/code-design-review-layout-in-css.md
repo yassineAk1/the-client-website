@@ -6,7 +6,7 @@ Deze week ben je aan de slag gegaan met Layout Modes in CSS. Dit heb je eerst ge
 
 ### Aanpak
 
-Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en de leertaak 'the-client-website'. Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
+Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een code-review op de leertaak 'the-client-website'. Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
 
 #### Deeltaak layout-in-css
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
