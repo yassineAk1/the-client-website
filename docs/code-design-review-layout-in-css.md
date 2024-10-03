@@ -28,7 +28,7 @@ Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 revie
 
 ### Bronnen
 
-Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
+Dit zijn goede bronnen om te gebruiken om CSS layouts te leren en onderzoeken: 
 
 - [Layout mode @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode)
 - [Layout @ web.dev](https://web.dev/learn/css/layout/)
