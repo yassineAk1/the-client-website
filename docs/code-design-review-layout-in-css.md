@@ -6,44 +6,38 @@ Deze week ben je aan de slag gegaan met Layout Modes in CSS. Dit heb je eerst ge
 
 ### Aanpak
 
-Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een code-review op de leertaak 'the-client-website'. Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
+Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een code-review op de leertaak 'the-client-website'. 
 
 #### Deeltaak layout-in-css
+Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
+
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
 2. Ga samen met jullie mentor de 8 basic layouts af. Per layout schrijft één student zijn/haar uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
 3. Heeft iedereen dezelfde oplossing als die op het whiteboard? Bespreek met elkaar de verschillen. CSS heeft een aantal verschillende manieren waarop je HTML kunt voorzien van een layout. Elke manier heeft eigen voor- en nadelen. 
 4. Herhaal stap 2 en 3 voor alle 8 de basic layouts. Elke student laat dus minimaal één layout zien op het whiteboard.
 5. Herhaal stap 2 en 3 voor de advanced layouts die zijn gemaakt. Heeft niemand een advanced layout gemaakt? Werk dan met elkaar als groep minimaal één advanced layout uit op het whiteboard (inclusief breakdownschets). 
 
-
 #### Leertaak the-client-website
+Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's.
 
-1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf in het “Prototype naar HTML” issue een reactie als er bij de validatie problemen naar voren zijn gekomen, en probeer hints te geven voor een oplossing.
-2. Pak het ontwerp in de Hifi schets of Figma erbij.
-3. Bekijk de website zonder CSS (via devtools kun je eventueel het `<link>` element uit de `<head>` verwijderen) en bepaal of deze logisch, duidelijk en bruikbaar is opgezet, aan de hand van de _content_ en _structuur_ uit het ontwerp. Schrijf je gedachten in het “Prototype naar HTML” issue als reactie.
-4. Bekijk alle HTML elementen en gebruik de [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) om te checken of de juiste HTML elementen zijn gebruikt.
-   - Bespreek de *Content sectioning*. Zijn de juiste elementen gebruikt voor bijvoorbeeld `<article>`, `<footer>`, `<header>`, `<section>`,  headings, `<main>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt.
-   - Zijn de juiste elementen gebruikt voor de *Text content*, zoals `<p>`, `<ol>`, `<li>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-   - Zijn de juiste elementen gebruikt voor de *Inline text semantics*, zoals  en `<a>`, `<strong>`, `<em>`, etc? Bespreek alle elementen en zoek op of ze goed zijn gebruikt. 
-5. Schrijf verbeteringen of suggesties over de gebruikte HTML ook als reactie in het “Prototype naar HTML” issue.
-
-
-#### Prototype ontwerp
-
-1. Pak het ontwerp in de Hifi schets of Figma er weer bij, en geef feedback op de volgende onderwerpen.
-2. Is de hele pagina vormgegeven, of ontbreken er onderdelen?
-3. Is er een responsive ontwerp gemaakt voor verschillende schermformaten? En hoe is hier alvast rekening mee gehouden in de HTML?
-4. Is er rekening gehouden met de viewport in het ontwerp?
-5. Kun je feedback geven op de Visuele Hiërarchie?
+1. Pak het ontwerp in de Hifi schets of Figma erbij en de gemaakte breakdownschets.
+2. Bespreek met elkaar voor welke layout er is gekozen? (Hint: Normal Flow, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout).
+3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of deze lay-out logisch, duidelijk en bruikbaar is opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
+4. Schrijf verbeteringen of suggesties over de gebruikte CSS ook als reactie in het “Layout in CSS” issue.
 
 
 ### Bronnen
 
 Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
 
-- [HTML Validator W3C](https://validator.w3.org)
-- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [How to Section Your HTML](https://css-tricks.com/how-to-section-your-html/)
-
+- [Layout mode @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode)
+- [Layout @ web.dev](https://web.dev/learn/css/layout/)
+- [CSS layout @ MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+- [A Complete Guide to Grid @ CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Flexbox @ CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flow Layout @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flow_layout)
+- [Floats @ MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+- [CSS challenge 1: Grid, door Sanne](https://github.com/fdnd-task/css-challenges/blob/main/docs/challenge_grid.md)
+- [CSS challenge 4: Flexbox, door Sanne](https://github.com/fdnd-task/css-challenges/blob/main/docs/challenge_flexbox.md)
 
 
