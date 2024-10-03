@@ -21,7 +21,7 @@ Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 student
 Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's.
 
 1. Pak het ontwerp in de Hifi schets of Figma erbij en de gemaakte breakdownschets.
-2. Bespreek met elkaar welke layout geschikt zou zijn. (Hint: Normal Flow, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout).
+2. Bespreek met elkaar welke layout geschikt zou zijn. Hint 1: Normal Flow, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout modes zijn ook te combineren.
 3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of deze layout logisch, duidelijk en bruikbaar is opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
 4. Schrijf verbeteringen of suggesties over de gebruikte CSS ook als reactie in het “Layout in CSS” issue.
 
