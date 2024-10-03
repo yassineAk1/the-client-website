@@ -7,6 +7,18 @@ Do's and Dont's als je code schrijft ...
 
 
 
+Code conventions sprint 2
+
+Waar ben je nu? Van HTML naar CSS
+
+- HTML netjes indenten
+- CSS heeft zelfde volgorde als HTML
+- CSS van groot naar klein (generiek naar specifiek)
+- Nesten van Media queries
+- Hardlopers: Container queries
+
+
+
 <!--
 HTML (EJS)
 Volgorde van de HTML elementen is hetzelfde als de pagina structuur
