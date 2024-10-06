@@ -30,9 +30,12 @@ Zorg dat je je HTML netjes en consequent _inspringt_, bijvoorbeeld altijd met
 consequent schrijft, zul je merken dat je sneller gaat coderen, en makkelijker
 aanpassingen kunt maken.
 
+Gebruik als richtlijn voor het inspringen je kennis over _block-level_ en
+_inline-level_ elementen.
+
 #### Doe dit niet ⛔️
 
-```
+```html
 <body>
 <nav>
 <ul><li>
@@ -40,7 +43,9 @@ aanpassingen kunt maken.
 <li><a href="/contact.html">Contact</a></li></ul>
 </nav>
 <h1>Eerste kop</h1>
-     <p>Welkom op deze website.</p>
+     <p>Welkom op deze
+     <strong>website</strong>.
+     </p>
     <footer>
      <p>Gemaakt door iemand.
 </p>
@@ -50,7 +55,7 @@ aanpassingen kunt maken.
 
 #### Doe dit wel ✅
 
-```
+```html
 <body>
     <nav>
         <ul>
@@ -60,7 +65,7 @@ aanpassingen kunt maken.
     </nav>
 
     <h1>Eerste kop</h1>
-    <p>Welkom op deze website.</p>
+    <p>Welkom op deze <strong>website</strong>.</p>
 
     <footer>
         <p>Gemaakt door iemand.</p>
