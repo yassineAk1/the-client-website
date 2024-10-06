@@ -20,29 +20,92 @@ houdt op je werk. In teams worden deze vaak vastgelegd, en wordt er van
 teamleden verwacht dat ze deze ook naleven. Sommige bedrijven leggen code
 conventies voor alle projecten binnen het hele bedrijf vast.
 
-Bij FDND houden we ook een aantal _code conventies_ aan:
+Bij FDND houden we ook een aantal _code conventies_ aan. Om te beginnen deze
+vier:
 
 ### Ademruimte in HTML
 
 Zorg dat je je HTML netjes en consequent _inspringt_, bijvoorbeeld altijd met
-4 spaties, of tabs. Je HTML heeft dus ook witruimte nodig.
+4 spaties, of tabs. Je HTML heeft dus ook witruimte nodig. Als je je code
+consequent schrijft, zul je merken dat je sneller gaat coderen, en makkelijker
+aanpassingen kunt maken.
 
-### CSS dezelfde volgorde als de HTML
+#### Doe dit niet ⛔️
+
+```
+<body>
+<nav>
+<ul><li>
+<a href="/">Home</a></li>
+<li><a href="/contact.html">Contact</a></li></ul>
+</nav>
+<h1>Eerste kop</h1>
+     <p>Welkom op deze website.</p>
+    <footer>
+     <p>Gemaakt door iemand.
+</p>
+  </footer>
+</body>
+```
+
+#### Doe dit wel ✅
+
+```
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <h1>Eerste kop</h1>
+    <p>Welkom op deze website.</p>
+
+    <footer>
+        <p>Gemaakt door iemand.</p>
+    </footer>
+</body>
+```
+
+### CSS selectors in dezelfde volgorde als de HTML
 
 ...
+
+#### Doe dit niet ⛔️
+
+
+#### Doe dit wel ✅
+
 
 ### CSS selectors van generiek naar specifiek
 
 ...
 
-### Nest je media queries
+#### Doe dit niet ⛔️
+
+
+#### Doe dit wel ✅
+
+### Media Queries genest
 
 ...
 
 Ben je al wat verder, kijk dan ook eens hoe je _Container Queries_ in kunt
 zetten op deze manier.
 
-### Opdracht
+#### Doe dit niet ⛔️
+
+
+#### Doe dit wel ✅
+
+
+
+### Opdracht met je tafel
+
+
+
+### Individuele opdracht
 
 Herschrijf (_refactor_) je eigen code aan de hand van bovenstaande code
 conventies. Begin met je HTML
