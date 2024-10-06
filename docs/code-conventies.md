@@ -21,19 +21,21 @@ teamleden verwacht dat ze deze ook naleven. Sommige bedrijven leggen code
 conventies voor alle projecten binnen het hele bedrijf vast.
 
 Bij FDND houden we ook een aantal _code conventies_ aan. Om te beginnen deze
-vier:
+drie:
 
-### Ademruimte in HTML
+### Geef je HTML ademruimte
 
 Zorg dat je je HTML netjes en consequent _inspringt_, bijvoorbeeld altijd met
 4 spaties, of tabs. Je HTML heeft dus ook witruimte nodig. Als je je code
 consequent schrijft, zul je merken dat je sneller gaat coderen, en makkelijker
 aanpassingen kunt maken.
 
-Gebruik als richtlijn voor het inspringen je kennis over _block-level_ en
-_inline-level_ elementen.
+💡 Gebruik als richtlijn voor het inspringen en de witruimte je kennis over
+_block-level_ en _inline-level_ elementen: begin block-level elementen op een
+nieuwe regel, en laat inline-level elementen doorlopen op dezelfde regel. Als
+je dit consequent doorvoert, wordt je latere CSS hier ook beter van.
 
-#### Doe dit niet ⛔️
+#### ⛔️ Doe dit niet
 
 ```html
 <body>
@@ -46,6 +48,11 @@ _inline-level_ elementen.
      <p>Welkom op deze
      <strong>website</strong>.
      </p>
+         <p><a
+        href="/pagina-2.html"
+        class="button">Lees verder
+        </a>
+        </p>
     <footer>
      <p>Gemaakt door iemand.
 </p>
@@ -53,7 +60,7 @@ _inline-level_ elementen.
 </body>
 ```
 
-#### Doe dit wel ✅
+#### ✅ Doe dit wel
 
 ```html
 <body>
@@ -65,7 +72,8 @@ _inline-level_ elementen.
     </nav>
 
     <h1>Eerste kop</h1>
-    <p>Welkom op deze <strong>website</strong>.</p>
+    <p class="intro">Welkom op deze <strong>website</strong>.</p>
+    <p><a href="/pagina-2.html" class="button">Lees verder</a></p>
 
     <footer>
         <p>Gemaakt door iemand.</p>
@@ -73,44 +81,155 @@ _inline-level_ elementen.
 </body>
 ```
 
-### CSS selectors in dezelfde volgorde als de HTML
+### Schrijf je CSS selectors in dezelfde volgorde als de HTML
 
-...
+Zorg dat je CSS bestand de volgorde en structuur van de HTML volgt. Hierdoor
+wordt het makkelijker om je werk terug te vinden, en aanpassingen te maken.
 
-#### Doe dit niet ⛔️
+💡 Je kunt in CSS ook selectors _nesten_ om meer overzicht te houden (en minder
+te typen). Laat ook hierbij de structuur van je HTML terugkomen.
 
-
-#### Doe dit wel ✅
-
-
-### CSS selectors van generiek naar specifiek
-
-...
-
-#### Doe dit niet ⛔️
+#### ⛔️ Doe dit niet
 
 
-#### Doe dit wel ✅
+```css
+nav {
+    display: flex;
+}
 
-### Media Queries genest
+.intro {
+    text-align: center;
+}
 
-...
+footer {
+    font-size: smaller;
+}
 
-Ben je al wat verder, kijk dan ook eens hoe je _Container Queries_ in kunt
-zetten op deze manier.
+a.button {
+    padding: .5em;
+    border: 1px solid;
+}
 
-#### Doe dit niet ⛔️
+nav ul {
+    list-style: none;
+}
 
+body {
+    line-height: 1.5;
+}
+```
 
-#### Doe dit wel ✅
+#### ✅ Doe dit wel
 
+```css
+body {
+    line-height: 1.5;
+}
 
+nav {
+    display: flex;
+    ul {
+        list-style: none;
+    }
+}
+
+.intro {
+    text-align: center;
+}
+
+a.button {
+    padding: .5em;
+    border: 1px solid;
+}
+
+footer {
+    font-size: smaller;
+}
+```
+
+### Nest je media queries
+
+Zorg dat je per onderdeel (_component_) op je pagina afzonderlijk nadenkt over
+hoe deze _responsive_ werkt. Door je _Mobile First_ media queries te _nesten_
+is het makkelijker om met verschillende formaten breakpoints te werken, en hou
+je meer overzicht. Ga je een onderdeel veranderen (of verwijderen), dan heb je
+op één plek ook alle code bij elkaar.
+
+💡 Heb je _Mobile First Responsive Design_ al helemaal onder de knie? Kijk dan
+ook eens hoe je _Container Queries_ in kunt zetten op deze manier.
+
+#### ⛔️ Doe dit niet
+
+```css
+body {
+    line-height: 1.5;
+}
+nav {
+    display: flex;
+}
+footer {
+    text-align: right;
+}
+@media (min-width: 30em) {
+    body {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    nav {
+        justify-content: space-between;
+    }
+    footer {
+        text-align: center;
+    }
+}
+```
+
+#### ✅ Doe dit wel
+
+```css
+body {
+    line-height: 1.5;
+    @media (min-width: 30em) {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+nav {
+    display: flex;
+    @media (min-width: 26em) {
+        justify-content: space-between;
+    }
+}
+footer {
+    text-align: right;
+    @media (min-width: 32em) {
+        text-align: center;
+    }
+}
+```
 
 ### Opdracht met je tafel
 
-
+...
 
 ### Individuele opdracht
 
 Herschrijf (_refactor_) je eigen code aan de hand van bovenstaande code
-conventies. Begin met je HTML
+conventies.
+
+Maak een issue aan op je project, genaamd “Refactor HTML en CSS”.
+
+Begin met al je HTML ademruimte geven en consequent in te springen.
+
+Pas vervolgens de volgorde van je CSS aan, en kijk waar je selectors kunt
+nesten.
+
+Herschrijf hierna je media queries, door deze te nesten bij de selectors waar
+ze voor gelden.
+
+Als je dit gedaan hebt, is er als het goed is niks veranderd aan de werking
+van je site, is je code iets overzichtelijker geworden, en heb je je eerste
+_code refactor_ gedaan. Probeer volgende keer deze eerste paar conventies
+vanaf het begin toe te passen op je code.
+
+Sluit het issue door je code te pushen.
