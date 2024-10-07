@@ -2,16 +2,16 @@
 
 ## Sprint Review
 
-De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin het gemaakte werk wordt besproken met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is.
+De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin het gemaakte werk wordt besproken met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is. Het maakt niet uit dat de opdracht nog niet af is of dat er nog niet veel code is, je kan altijd laten zien waar je aan hebt gewerkt en bespreken of jouw oplossing overeenkomt met de opdrachtgever.
 
-Deze demonstratie moet letterlijk genomen worden. Het is dus geen PowerPoint-presentatie met daarin een weergave van de doelen en resultaten, maar het daadwerkelijk laten zien van het opgeleverde werk. Als het doel was om een website te ontwerpen en maken, demonstreer je de website zodat de opdrachtgever het kan bekijken en uitproberen. 
+![Proces van briefing en debriefing](briefing-debriefing.png)
+_Laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever_
 
-### Aanpak Sprint Review 
+De demonstratie aan de opdrachtgever moet letterlijk genomen worden. Het is dus geen PowerPoint-presentatie met daarin een weergave van de doelen en resultaten, maar het daadwerkelijk laten zien van het opgeleverde werk. Als het doel was om een website te ontwerpen en maken, demonstreer je de website zodat de opdrachtgever het kan bekijken en uitproberen. 
 
-
+### Aanpak Sprint Review en voorbereiding
 
 <!-- 
-
 Opdracht en aanpak Sprint review
 
 Wat is een sprint review eigenlijk? 
@@ -20,27 +20,34 @@ Waarom doe je dit?
 - Sprint review voorbereiden
 - feedback halen bij de opdrachtgever
 - feedback verwerken en toevoegen aan project board
-
 -->
 
-
-
-
-#### Bereid je voor
-Voor een goede Sprint Review heb je een een goede voorbereiding nodig. Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. In de Review gaat het erom dat we op een werkend onderdeel van een website feedback willen ontvangen. Dus zorg ervoor dat wat je presenteert (zo goed mogelijk) werkt. Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien. 
-
+Voor een goede Sprint Review heb je een een goede voorbereiding nodig. 
+Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. 
+In de Review gaat het erom dat je feedback krijgt op het gemaakte werk en dat je de feedback gebruikt voor de volgende sprint(s).
 
 #### Definieer het doel
-Het is belangrijk om het doel van de Sprint Review duidelijk te communiceren naar de opdrachtgever. Het doel kan bijvoorbeeld zijn om feedback te verzamelen over het geleverde werk, inzicht te bieden in de voortgang van het project of om mogelijke aanpassingen te bespreken. Het definiëren van het doel helpt bij het sturen van de discussie en maakt dus uiteindelijk een effectieve Sprint Review.
+Het is belangrijk om met een duidelijk doel naar de sprint review te gaan. 
+Het doel kan bijvoorbeeld zijn om feedback te verzamelen over het geleverde werk, inzicht te bieden in de voortgang van het project of om mogelijke aanpassingen te bespreken. 
+Het definiëren van het doel helpt bij het sturen van de discussie en maakt dus uiteindelijk een effectieve Sprint Review.
 
+Bespreek met studenten uit je squad die dezelfde opdrachtgever hebben jouw doel van de sprint review. 
+Schrijf het op. Begin jouw demonstratie donderdag met jouw doel.
 
 #### Demonstratie van het werk
-Tijdens de Sprint Review geef je een demonstratie van de website. Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te laten zien. Focus op de belangrijkste functionaliteiten en presenteer deze in detail. Met de demonstratie test je of het werk voldoet aan de vraag van de opdrachtgever. 
+Tijdens de Sprint Review geef je een demonstratie van de website. 
+Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te laten zien. 
+Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien.
+Met de demonstratie test je of het werk voldoet aan de vraag van de opdrachtgever.
 
+Schrijf eert een plan van aanpak voor jouw demonstratie. 
+Geef de demontratie aan medestudenten om te oefen met wat je donderdag aan de opdrachtgever wil laten zien. 
+Demonstreer je werk aan je medestudenten en geef elkaar tips en tops.  
 
 #### Faciliteer feedback
 Een Sprint Review is bedoeld om feedback te krijgen op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever wordt aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
 
+Bespreek welke vragen je aan de opdrachtgever wil stellen. Schrijf de vragen op voor donderdag en vergeet niet tijdens de sprint review de antwoorden op te schrijven als je je website laat zien.
 
 #### Beoordeel de feedback
-Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. Analyseert de feedback en bepaalt hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je project board en/of issues. 
+Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. Analyseer de feedback die je hebt gekregen van de opdrachtgever en bepaal hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je project board en/of issues.
