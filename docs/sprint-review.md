@@ -22,7 +22,7 @@ Waarom doe je dit?
 - feedback verwerken en toevoegen aan project board
 -->
 
-Voor een goede Sprint Review heb je een een goede voorbereiding nodig. 
+Voor een goede Sprint Review heb je een goede voorbereiding nodig. 
 Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. 
 In de Review gaat het erom dat je feedback krijgt op het gemaakte werk en dat je de feedback gebruikt voor de volgende sprint(s).
 
@@ -56,8 +56,8 @@ Bespreek met je medestudenten welke vragen jullie aan de opdrachtgever willen st
 
 
 ### Beoordeel de feedback
-Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. 
-Analyseer de feedback die je hebt gekregen van de opdrachtgever en bedenken hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je issues (en project board).
+Na de Sprint Review ga je de feedback beoordelen en documenteren. 
+Analyseer de feedback die je hebt gekregen van de opdrachtgever en bedenk hoe je het kan in de volgende sprint kan verwerken. Neem de feedback op in je issues (en project board) met een duidelijke beschrijving.
 
 
 ### Bronnen
