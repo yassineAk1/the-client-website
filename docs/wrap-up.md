@@ -6,10 +6,10 @@ Tijdens de Wrap up ga je bekijken wat je nog kan afmaken voor de Sprint Review, 
 
 Bij de workshop [Sprint Review](sprint-review.md) leer je hoe dat in zijn werk gaat en wat je moet voorbereiden. 
 
-Als je een sprint afsluit dan zorg je er altijd voor dat je *repository* een nette readme heeft. Geef dat de opdrachtgever de link naar je repo zodat die ook zelf nog een keer kan lezen en zien wat je hebt gemaakt na de Sprint Review.
+Als je een sprint afsluit zorg er dan voor dat je *repository* een nette readme heeft. Geef de opdrachtgever de link naar je repo zodat die na de Sprint Review kan lezen en zien wat je hebt gemaakt.
 
 ### Readme
-Als mensen – docenten, studenten of toekomstige werkgevers – jouw werk bekijken wordt eerst de readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
+Als mensen – opdrachtgevers, docenten, studenten of toekomstige werkgevers – jouw werk bekijken wordt eerst de readme gelezen om te begrijpen wat je gedaan hebt. Het is belangrijk om dit bestand heel duidelijk te schrijven.
 
 De readme is het eerste wat iemand ziet op GitHub. 
 In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kan screenshots laten toevoegen en vertellen wie de website heeft genaakt. De readme is het uithangbord van het project.
