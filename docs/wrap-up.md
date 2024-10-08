@@ -17,13 +17,13 @@ In de Readme kan je uitleggen wat de opdracht is, wat je hebt gemaakt, je kan sc
 ### Aanpak
 
 #### Intro
-Begin de Readme uit met een korte uitleg over de opdracht. Maak via Github Pages een url van je project en voeg deze toe aan jullie Readme.
+Begin de Readme met een korte uitleg over de opdracht, schrijf hier bijvoorbeeld de vraag van de opdrachtgever. Maak via Github Pages een url van je project en voeg deze ook toe aan de Readme.
 
 #### Beschrijving
-Bij 'Beschrijving' komt te staan staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. Beschrijf _drie_ opvallende features. Voeg ook screenshots toe aan de Readme; laat bijvoorbeeld zien hoe de website er op verschillende devices uitziet. Dit is jullie etalage.
+Bij 'Beschrijving' komt te staan hoe je project er uit ziet, hoe het werkt en wat je er mee kan. Beschrijf _drie_ opvallende features. Voeg ook screenshots toe; laat bijvoorbeeld zien hoe de website er op verschillende devices uitziet. Dit is je etalage.
 
 #### Kenmerken 
-Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? Dit kun je allemaa hier opschrijven.
+Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? Dit kun je allemaal hier opschrijven.
 
 ### Bronnen
 
