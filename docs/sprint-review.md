@@ -26,27 +26,35 @@ Voor een goede Sprint Review heb je een een goede voorbereiding nodig.
 Het team zorgt voor een agenda, zodat de Review soepeltjes verloopt. 
 In de Review gaat het erom dat je feedback krijgt op het gemaakte werk en dat je de feedback gebruikt voor de volgende sprint(s).
 
-#### Definieer het doel
+
+### Definieer het doel
 Het is belangrijk om met een duidelijk doel naar de Sprint Review te gaan. 
 Het doel kan bijvoorbeeld zijn om feedback te verzamelen over het geleverde werk, inzicht te bieden in de voortgang van het project of om aanpassingen te bespreken. 
 Het definiëren van het doel helpt bij het sturen van de discussie en maakt dus uiteindelijk een effectieve Sprint Review.
 
+##### Voorbereiding
 Bespreek met studenten uit je squad die dezelfde opdracht hebben jouw doel van de Sprint Review. 
-Schrijf jouw doel op. Begin de demonstratie donderdag met het doel uitleggen.
+Schrijf het op en begin jouw demonstratie donderdag met het uitleggen van jouw doel aan de opdrachtgever.
 
-#### Demonstratie van het werk
+
+### Demonstratie van het werk
 Tijdens de Sprint Review geef je een demonstratie van de website. 
 Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te laten zien. 
 Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien.
 Met de demonstratie test je of het werk voldoet aan de vraag van de opdrachtgever.
 
-Schrijf een plan van aanpak voor eat jij wil demonstreren, wat laat je eerst zien en wat heb je daarvoor nodig 
-Demonstreer je werk aan je medestudenten en geef elkaar tips en tops.  
+##### Voorbereiding
+Schrijf een plan van aanpak voor jouw demonstratie, wat laat je eerst zien en wat heb je daarvoor nodig?
+Geef de demonstratie aan je medestudenten en een mentor en geef elkaar tips en tops voor donderdag.
 
-#### Faciliteer feedback
+
+### Faciliteer feedback
 Een Sprint Review is bedoeld om feedback te krijgen op het geleverde werk. Zorg dat je feedback krijgt en dat de opdrachtgever wordt aangemoedigd om specifiek en constructief te zijn in hun feedback. Je kan ook vragen stellen om de behoeften en verwachtingen van de opdrachtgever (nog) beter te begrijpen.
 
-Bespreek welke vragen je aan de opdrachtgever wil stellen en schrijf de vragen op voor donderdag. Vergeet niet tijdens de sprint review de antwoorden op te schrijven als je je website laat zien.
+##### Voorbereiding
+Bespreek met je medestudenten welke vragen jullie aan de opdrachtgever willen stellen en schrijf de vragen op voor donderdag. Vergeet niet tijdens de Sprint Review de antwoorden op te schrijven als je je website laat zien.
 
-#### Beoordeel de feedback
-Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. Analyseer de feedback die je hebt gekregen van de opdrachtgever en bepaal hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je project board en/of issues.
+
+### Beoordeel de feedback
+Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. 
+Analyseer de feedback die je hebt gekregen van de opdrachtgever en bedenken hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je issues (en project board).
