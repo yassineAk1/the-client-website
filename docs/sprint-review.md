@@ -5,7 +5,7 @@
 De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin je het gemaakte werk bespreekt met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is. Het maakt niet uit dat de opdracht nog niet af is, je kan altijd laten zien waar je aan hebt gewerkt en bespreken of jouw oplossing overeenkomt met de wensen van de opdrachtgever.
 
 ![Proces van briefing en debriefing](briefing-debriefing.png)
-_Laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever_
+_Laat bij de Sprint Review zien wat je hebt gemaakt, zo check je of het voldoet aan de briefing van de opdrachtgever_
 
 De demonstratie aan de opdrachtgever moet letterlijk genomen worden. Het is dus geen PowerPoint-presentatie met daarin een weergave van de doelen en resultaten, maar het daadwerkelijk laten zien van het opgeleverde werk. Als het doel was om een website te ontwerpen en maken, demonstreer je de website zodat de opdrachtgever het kan bekijken en uitproberen. 
 
@@ -39,7 +39,7 @@ Schrijf het op en begin jouw demonstratie donderdag met het uitleggen van jouw d
 
 ### Demonstratie van het werk
 Tijdens de Sprint Review geef je een demonstratie van de website. 
-Het is belangrijk om functionaliteiten en kenmerken duidelijk uit te leggen en te laten zien. 
+Leg de functionaliteiten en kenmerken duidelijk uit en laat het zien. 
 Wil je laten zien dat het responsive werkt? Laat je website dan op verschillende apparaten zien.
 Met de demonstratie test je of het werk voldoet aan de vraag van de opdrachtgever.
 
