@@ -58,3 +58,9 @@ Bespreek met je medestudenten welke vragen jullie aan de opdrachtgever willen st
 ### Beoordeel de feedback
 Na het ontvangen en verzamelen van alle feedback is het belangrijk om de feedback te beoordelen en documenteren. 
 Analyseer de feedback die je hebt gekregen van de opdrachtgever en bedenken hoe deze kunnen worden opgenomen in toekomstige sprints. Neem de feedback op in je issues (en project board).
+
+
+### Bronnen
+
+- [Sprint Review Meeting](https://scrumguide.nl/sprint-review/)
+- [Dit is het geheim van een succesvolle Sprint Review in Scrum](https://scrumacademy.nl/blog/dit-is-het-geheim-van-een-succesvolle-sprint-review-in-scrum/)
