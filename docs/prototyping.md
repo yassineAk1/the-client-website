@@ -121,7 +121,7 @@ Je gaat een breakdown schets maken van het ontwerp dat je hebt gemaakt (of gekre
 
 Nu kun je aan de slag met HTML.
 
-## Prototype in HTML
+### Prototype in HTML
 
 1. Maak een nieuw issue aan op je project, en noem deze “Prototype naar HTML”.
 2. Voeg je schetsen en eventuele opmerkingen toe aan je issue; hiermee heb je het probleem geanalyseerd en al deels ontworpen.
