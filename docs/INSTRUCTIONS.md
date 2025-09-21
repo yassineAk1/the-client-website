@@ -17,7 +17,7 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 - [Prototyping](prototyping.md)
 - [Code/Design review Prototype en HTML](code-design-review-prototype-en-html.md)
 - [Layout in CSS](layout-in-css.md) 
-- [Typografie en leesbaarheid](typografie-en-leesbaarheid.md) 
+- [Breakpoints en Media queries](breakpoints-en-media-queries.md) 
 - [Code/Design review layout in CSS](code-design-review-layout-in-css.md)
 - [Code conventies](code-conventies.md) 
 - [Wrap-up](wrap-up.md) 
