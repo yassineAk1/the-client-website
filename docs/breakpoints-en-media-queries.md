@@ -1,7 +1,9 @@
 # The Client - Website
 
-## Typografie & leesbaarheid
+## Breakpoints & Media queries
 
+
+<!--
 Hoe zorg je ervoor dat de teksten op je website goed leesbaar zijn?
 
 ### Goed leesbare teksten
@@ -54,3 +56,5 @@ Je kan de breedte van een tekst ook met `em` of bijvoorbeeld met `ch` _units_ be
 [Typography for Developers @ CSS Tricks](https://css-tricks.com/typography-for-developers/)
 
 [font-size @ MDN, met uitleg over EM](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+
+-->
