@@ -7,9 +7,9 @@ Schrijf een debriefing op basis van de briefing van een opdrachtgever.
 
 ### Het briefingproces van een opdracht
 
-Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. Maar ook voor jou om te controleren of je alles goed hebt begrepen.
+Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat diegene voor ogen had. Maar ook voor jou, om te controleren of je alles goed hebt begrepen.
 
-Voordat je naar de briefing van de opdrachtgever gaat bereid je je voor op het gesprek zodat je weet welke vragen je moet stellen. Na de briefing stuur je de opdrachtgever een debriefing waarin je in eigen woorden opschrijft wat jij denkt dat de opdracht inhoudt. 
+Voordat je naar de briefing van de opdrachtgever gaat, bereid je je voor op het gesprek, zodat je weet welke vragen je moet stellen. Na de briefing stuur je de opdrachtgever een debriefing, waarin je in eigen woorden opschrijft wat jij denkt dat de opdracht inhoudt. 
 
 ![Proces van briefing en debriefing](briefing-debriefing.png)
 _Het proces van briefing / debriefing, stel je vragen tijdens de briefing met de opdrachtgever, schrijf een debriefing en werk iteratief aan de website, laat bij de sprint review zien wat je hebt gemaakt en check of het voldoet aan de wensen van de opdrachtgever_
@@ -19,8 +19,8 @@ Het briefingproces bestaat uit twee delen:
  - Debriefing, ofwel de terugkoppeling dat je alles goed begrepen heeft.
 
 De debriefing is noodzakelijk voor:
-- De opdrachtgever om na te gaan, of duidelijk is overgekomen, wat hij voor ogen had
-- Voor jou om te controleren of je alles goed heeft begrepen en geconcretiseerd.
+- De opdrachtgever om na te gaan, of duidelijk is overgekomen wat diegene voor ogen had
+- Voor jou om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 
 ### Aanpak
@@ -42,16 +42,16 @@ In een debriefing komen deze onderdelen aan bod:
 
 Hoe gaan jullie communiceren? 
 - Hoe en wanneer kun je vragen stellen aan de opdrachtgever? Altijd en tussendoor? Wekelijks? Via de mail of online? 
-- Maak alvast een afspraak voor de sprint review van sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
+- Maak alvast een afspraak voor de Sprint Review van Sprint 2 (en zet de reviews van de aankomende sprints ook alvast in je project board)
 - Maak een kanaal aan in Teams met de coach en studenten die dezelfde opdracht hebben
-- Hoe sturen jullie vanmiddag de debriefing op? Per mail? 
+- Hoe sturen jullie vanmiddag de debriefing op? Per mail?
 
   
 #### 2. Achtergrondinformatie
 
 Wie is de opdrachtgever? 
 - Welke diensten worden aangeboden?
-- Wat zijn de unique selling points van het bedrijf?
+- Wat zijn de _unique selling points_ van het bedrijf?
 - Zijn er belangrijke mijlpalen of gebeurtenissen?
 - …
 
@@ -91,7 +91,7 @@ _Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve te
 - Wat is de planning van het project?
 - Wat is noodzakelijk om te kunnen starten met de opdracht?
 - Welke teamleden moet je aanstellen?
-- Wat is het budget en is er voldoende budget?
+- Wat is het budget, en is er voldoende budget?
 - Welke systemen, technieken of expertise zijn nodig?
 - Welke specificaties en eisen stelt het bedrijf aan de oplevering?
 - Zijn er obstakels denkbaar die extern liggen?
