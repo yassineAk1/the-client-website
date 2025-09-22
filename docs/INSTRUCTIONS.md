@@ -28,7 +28,7 @@ Deze leertaak wordt behandeld in Sprint 2. Er worden verschillende workshops aan
 
 Deze opdracht is done als:
 
-- [ ] Je hebt de Design Challenge iteratief aangepakt volgens de development-lifecycle
+- [ ] Je hebt de opdracht iteratief aangepakt volgens de development-lifecycle
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
 - [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint Review en de feedback gedocumenteerd in een issue en verwerkt
 - [ ] Je hebt een prototype gemaakt voor het responsive ontwerp en dit in een GitHub Issue bijgehouden
