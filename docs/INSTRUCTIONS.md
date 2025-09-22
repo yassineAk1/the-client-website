@@ -2,7 +2,7 @@
 Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
 
 ## Context
-Deze leertaak hoort bij sprint 2 The Client. 
+Deze leertaak hoort bij Sprint 2 The Client. 
 Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
 ## Doel van deze opdracht
@@ -10,7 +10,7 @@ Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je
 
 
 ## Werkwijze
-Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aangeboden:
+Deze leertaak wordt behandeld in Sprint 2. Er worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md) - Maandag week 1
 - [Briefing/debriefing](briefing-debriefing.md) - Maandag week 1
@@ -28,9 +28,9 @@ Deze leertaak wordt behandeld in sprint 2. Er worden verschillende workshops aan
 
 Deze opdracht is done als:
 
-- [ ] Je hebt de Design challenge iteratief aangepakt volgens de development-lifecycle
+- [ ] Je hebt de Design Challenge iteratief aangepakt volgens de development-lifecycle
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
-- [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint review en de feedback gedocumenteerd in een issue en verwerkt
+- [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint Review en de feedback gedocumenteerd in een issue en verwerkt
 - [ ] Je hebt een prototype gemaakt voor het responsive ontwerp en dit in een GitHub Issue bijgehouden
-- [ ] Je hebt het responsive ontwerp gerealiseerd met HTML, CSS en/of JS en feedback gekregen in Github Issues en de feedback verwerkt
+- [ ] Je hebt het responsive ontwerp gerealiseerd met HTML, CSS en/of JS en feedback gekregen in GitHub Issues en de feedback verwerkt
 
