@@ -6,7 +6,7 @@ Deze leertaak hoort bij Sprint 2 The Client.
 Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
 ## Doel van deze opdracht
-Je leert je hoe je een opdracht voor een klant kan aanpakken. De opdracht die je krijgt, kan een hele website zijn, of een onderdeel van een bestaande website. 
+Je leert hoe je een opdracht voor een klant kan aanpakken. De opdracht die je krijgt, kan een hele website zijn, of een onderdeel van een bestaande website. 
 
 
 ## Werkwijze
