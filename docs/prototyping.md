@@ -36,7 +36,7 @@ Er bestaan verschillende (online) tools om sitemaps mee te maken. In sprint 2 ga
 ![sitemap schets](sitemap.png)
 
 #### Aanpak
-Teken een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen (homepage, overzichtspagina, detailpagina, aanmeldpagina, contactpagina, etc...)
+Teken op het whiteboard een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen (homepage, overzichtspagina, detailpagina, aanmeldpagina, contactpagina, etc...)
 
 1. Schrijf bovenaan de sitemap de ontwerpvraag van de opdrachtgever.
 2. Onderzoek welke pagina's er zijn of gaan komen. Gebruik de briefing die je hebt gehad, de documentatie en het design dat je hebt gekregen.
