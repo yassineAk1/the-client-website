@@ -109,7 +109,7 @@ Je gaat een breakdown schets maken van het ontwerp dat je hebt gemaakt (of gekre
 1. Dupliceer het frame met je Figma ontwerp en noem het frame “breakdown + titel van de pagina” 
 2. Teken om de content onderdelen een vierkant blok en noteer het HTML element erbij, zoals `<h1>`,`<p>`, `<a>` of `<li>`. Als je niet weet welk element je nodig hebt, kun je dit gaan onderzoeken (zie de bronnen hieronder), of vraag het aan een klasgenoot, mentor of docent.
 2. Teken vervolgens een blok om de groeperende onderdelen en schrijf ook hier de HTML elementen erbij. Dit zijn de container elementen zoals `<article>`, `<nav>`, `<main>`, maar ook een `<ul>` voor een lijst, of `<figure>` voor een image zijn container elementen. Denk alvast na over een goede structuur.
-3. Als je (ongeveer) weet welke HTML elementen je nodig hebt, kun je _bedenken_ hoe je de layout in CSS zou kunnen maken. Bekijk de verschillende HTML containers die je hebt genoteerd en bedenk hoe je ze kan vormgeven. Heb je Grid of Flexbox nodig om elementen netjes naast elkaar te tonen? Weet je hoe je elementen kan positioneren? Welke elementen staan automatisch al goed doordat je goede HTML hebt bedacht?
+3. Als je (ongeveer) weet welke HTML elementen je nodig hebt, kun je _bedenken_ hoe je de layout in CSS zou kunnen maken. Bekijk de verschillende HTML containers die je hebt genoteerd en bedenk hoe je ze kan vormgeven. Heb je _Grid Layout_ of _Flexbox Layout_ nodig om elementen netjes naast elkaar te tonen? Weet je hoe je elementen kan _Positioneren_? Welke elementen staan automatisch al in de goede _Flow Layout_, doordat je goede HTML hebt bedacht?
 
 #### Bronnen
 
@@ -125,8 +125,8 @@ Nu kun je aan de slag met HTML.
 
 1. Maak een nieuw issue aan op je project, en noem deze “Prototype naar HTML”.
 2. Voeg je schetsen en eventuele opmerkingen toe aan je issue; hiermee heb je het probleem geanalyseerd en al deels ontworpen.
-3. Begin aan de hand van je schetsen met het schrijven van de HTML in je editor. Zorg voor een goed fundament, waarop je volgende week CSS kunt toepassen. Probeer dus nog _geen CSS_ te schrijven, maar te beginnen met de content en de structuur, waarmee je een werkend prototype bouwt. [Valideer je HTML](https://validator.w3.org/) regelmatig om fouten te voorkomen.
+3. Begin aan de hand van je schetsen met het schrijven van de HTML in je editor. Zorg voor een goed fundament, waarop je volgende week CSS kunt toepassen. Probeer dus nog _geen CSS_ te schrijven, maar te beginnen met de _content_ en de _structuur_, waarmee je een werkend prototype bouwt. Hierdoor werk je _gelaagd_, met _Progressive Enhancement_. [Valideer je HTML](https://validator.w3.org/) tussendoor regelmatig om fouten te voorkomen.
 4. Voor het integreren koppel je commit(s) aan je issue door het # issue nummer in je commit message(s) te noemen. Hiermee laat je in het issue je iteraties zien.
 5. Zet voor vrijdag je HTML prototype live via GitHub Pages, en plaats de link bij je repo.
 
-Tijdens de code & design review vrijdag gaan we je HTML reviewen.
+Tijdens de code & design review vrijdag gaan we je HTML reviewen. CSS is vrijdag dus nog niet nodig.
