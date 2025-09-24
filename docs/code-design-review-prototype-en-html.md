@@ -12,12 +12,12 @@ Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code
 
 ### Aanpak
 
-Vandaag doe je een code review op de HTML en het prototype van het ontwerp (in Figma). Deze review doe je in een duo. Je reviewt het werk van een ander duo. Je bekijkt dus in totaal naar twee verschillende repo's. 
+Vandaag doe je een code review op de HTML en het prototype van het ontwerp (in Figma). Deze review doe je in een duo. Je reviewt het werk van een ander duo. Je bekijkt dus samen in totaal naar twee verschillende repo's. 
 
 1. [Push je laatste werk naar GitHub, publiceer je site via GitHub Pages, plaats een link bij je repo, zet Issues aan](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#en-wat-nu-voor-komende-vrijdag).
 2. Vorm een duo. 
 3. Schrijf wanneer je als duo klaar bent voor een review jullie Github handles op het whiteboard.
-4. Ga op zoek naar een ander duo voor een review, bij voorkeur een duo met andere opdrachtgevers. Elkaar gevonden? Zet dan een <3 achter jullie namen op het whiteboard. 
+4. Zoek een ander duo voor een review, bij voorkeur met andere opdrachtgevers. Hebben jullie een duo gevonden? Schrijf dan hun namen achter die van jullie op het whiteboard.
 5. Reviewen maar..! 
 
 
@@ -41,7 +41,7 @@ Pak het ontwerp in de Hifi schets of Figma er opnieuw bij en geef feedback op de
 
 #### Feedback bekijken, op waarde schatten en taken inplannen
 
-Nadat je de code/design review bij twee peers hebt uitgevoerd, is het tijd om alle ontvangen feedback te bekijken. Bepaal welke feedback waardevol is. Geef dit ook terug aan degene van wie je de feedback hebt onvangen (doe dit op Github). Bepaal vervolgens met welke feedback je maandag aan de slag gaat. Maar waar nodig (sub)issues aan. 
+Nadat je de code/design review hebt uitgevoerd, is het tijd om alle ontvangen feedback te bekijken. Bepaal welke feedback waardevol is. Geef dit ook terug aan degene van wie je de feedback hebt onvangen (je kunt reageren op issues en daar iemand in taggen). Bepaal vervolgens met welke feedback je maandag aan de slag gaat. Maak waar nodig issues aan. 
 
 ### Bronnen
 
