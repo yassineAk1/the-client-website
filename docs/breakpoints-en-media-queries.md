@@ -4,6 +4,22 @@
 
 
 <!--
+
+De studenten leren veel over layout en layout modes.
+We vragen veel responsive in de DoD's.
+Is het misschien logischer in een workshop in te gaan op media queries? En daarin de leesregels introduceren bij het bepalen van een breakpoint of fluit layout?
+
+Via kolommen. En dan de 'design' vraag: Hoe breed is een kolom?
+Een kolom is een telefoon, dat is ook een leuke benadering.
+
+
+En media query uitleggen. EN mee laten spelen in hun Learnign Journal. opdrachtjke ... 
+
+-->
+
+
+
+<!--
 Hoe zorg je ervoor dat de teksten op je website goed leesbaar zijn?
 
 ### Goed leesbare teksten
