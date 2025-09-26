@@ -1,1 +1,136 @@
-<!-- HTML -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milledoni</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<header>
+    <a href="index.html" class="logo">
+      <img src="assets/mobile-logo.svg" alt="mobile Logo">
+    </a>
+ 
+ <nav class="nav-icons">
+    <button><img src="assets/saved-logo.svg" alt="saved-icon"></button>    
+    <button><img src="assets/profile-logo.svg" alt="profile-icon"></button>
+
+ </nav>
+</header>
+
+ <main>
+    <section>
+        <h1>I'm looking for a gift for...</h1>
+        <form class="filters">
+
+    <label for="relation-select" class="visually-hidden">Choose a relation</label>
+        <select name="relation" id="relation-select">
+            <option value="">Who is it for</option>
+            <option value="boyfriend">Boyfriend</option>
+            <option value="girlfriend">Girlfriend</option>
+        </select>
+
+            <label for="age-input">Age</label>
+            <input type="number" id="age-input" name="age" placeholder="age">
+
+            <label for="occasion-select" class="visually-hidden">Choose an occasion</label>
+        <select name="occasion" id="occasion-select"> 
+            <option value="">For which occasion</option>
+            <option value="birthday">Birthday</option>
+            <option value="Anniversary">Anniversary</option>
+        </select>   
+        </form>        
+    </section>
+    <section>
+        <a href="assets/gift1.svg">
+            <img src="assets/gift1.svg">
+            <h2>Weekend Trip</h2>
+        </a>
+
+        <a href="assets/gift2.svg">
+            <img src="assets/gift2.svg">
+            <h2>Magic Lamp</h2>
+        </a>
+
+        <a href="assets/gift3.svg">
+            <img src="assets/gift3.svg">
+            <H2>Bike Ride</H2>
+        </a>
+    </section>
+ </main>
+<footer>
+  <section class="newsletter">
+    <h2>Get gift inspiration in your inbox!</h2>
+    <p>Subscribe to receive monthly gift ideas</p>
+    <form class="newsletter-form">
+      <label for="email" class="visually-hidden">Email address</label>
+      <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+      <button type="submit">➔</button>
+    </form>
+  </section>
+
+  <section class="footer-links">
+    <div class="footer-col">
+      <h3>Gifts</h3>
+      <ul>
+        <li><a href="#">Landing Page</a></li>
+        <li><a href="#">Popup Builder</a></li>
+        <li><a href="#">Web Design</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Integrations</a></li>
+      </ul>
+    </div>
+
+
+    <div class="footer-col">
+      <h3>Join us</h3>
+      <ul>
+        <li><a href="#">Academy</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Themes</a></li>
+        <li><a href="#">Hosting</a></li>
+        <li><a href="#">Developers</a></li>
+        <li><a href="#">Support</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <h3>Company</h3>
+      <ul>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Careers</a></li>
+        <li><a href="#">FAQs</a></li>
+        <li><a href="#">Teams</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col contact">
+      <h3>Contact Us</h3>
+      <address>
+        700 Chevy Chase, Maryland 20815<br>
+        <a href="mailto:milledoni@gmail.com">milledoni@gmail.com</a>
+      </address>
+      <h3>Follow Us</h3>
+      <ul class="socials">
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Instagram</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="legal">
+    <ul>
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Terms of Use</a></li>
+      <li><a href="#">Sales and Refunds</a></li>
+      <li><a href="#">Legal</a></li>
+      <li><a href="#">Site Map</a></li>
+    </ul>
+    <p>© 2024 All Rights Reserved</p>
+  </section>
+</footer>
+
+</body>
+</html>
