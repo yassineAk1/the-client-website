@@ -19,10 +19,11 @@
  </nav>
 </header>
 
- <main>
-    <section>
-        <h1>I'm looking for a gift for...</h1>
-        <form class="filters">
+ <main>  
+     <form class="filters">
+       <fieldset>
+        <legend>I'm looking for a gift for...</legend>
+      
 
     <label for="relation-select" class="visually-hidden">Choose a relation</label>
         <select name="relation" id="relation-select">
@@ -40,38 +41,54 @@
             <option value="birthday">Birthday</option>
             <option value="Anniversary">Anniversary</option>
         </select>   
-        </form>        
-    </section>
+      </fieldset> 
+    </form>
+
+
     <section>
         <a href="assets/gift1.svg" class="gift-listing">
             <h2>Weekend Trip</h2>
-            <img src="assets/gift1.svg" alt="weekend-trip-image">
+            <img src="assets/gift1.svg" alt="weekend trip">
         </a>
 
         <a href="assets/gift2.svg" class="gift-listing">
             <h2>Magic Lamp</h2>
-            <img src="assets/gift2.svg" alt="lamp-img">
+            <img src="assets/gift2.svg" alt="lamp">
         </a>
 
         <a href="assets/gift3.svg" class="gift-listing">
             <H2>Bike Ride</H2>
-            <img src="assets/gift3.svg" alt="bicycles-img">
+            <img src="assets/gift3.svg" alt="bicycles">
+        </a>
+
+        <a href="assets/gift4.svg" class="gift-listing">
+            <h2>Snow Trip</h2>
+            <img src="assets/gift4.svg" alt="trip in the snow">
+        </a>
+
+        <a href="assets/gift5.svg" class="gift-listing">
+            <h2>Candle</h2>
+            <img src="assets/gift5.svg" alt="a candle">
+        </a>
+
+        <a href="assets/gift8.svg" class="gift-listing">
+            <H2>Books</H2>
+            <img src="assets/gift8.svg" alt="two bookd">
         </a>
     </section>
  </main>
  
 <footer>
-  <section class="newsletter">
-    <h2>Get gift inspiration in your inbox!</h2>
-    <p>Subscribe to receive monthly gift ideas</p>
     <form class="newsletter-form">
+    <h3>Get gift inspiration in your inbox!</h3>
+    <p>Subscribe to receive monthly gift ideas</p>
+   
       <label for="email" class="visually-hidden">Email address</label>
       <input type="email" id="email" name="email" placeholder="Enter your email address" required>
       <button type="submit">➔</button>
     </form>
-  </section>
 
-  <section class="footer-links">
+  <nav class="footer-links">
     <div class="footer-col">
       <h3>Gifts</h3>
       <ul>
@@ -119,9 +136,9 @@
         <li><a href="#">Instagram</a></li>
       </ul>
     </div>
-  </section>
+  </nav>
 
-  <section class="legal">
+  <div class="legal">
     <ul>
       <li><a href="#">Privacy Policy</a></li>
       <li><a href="#">Terms of Use</a></li>
@@ -130,7 +147,7 @@
       <li><a href="#">Site Map</a></li>
     </ul>
     <p>© 2024 All Rights Reserved</p>
-  </section>
+  </div>
 </footer>
 
 </body>
