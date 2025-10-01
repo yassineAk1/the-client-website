@@ -94,7 +94,11 @@ Geef de `body` met `line-height` een _regelafstand_ die lekker werkt. Experiment
 
 ### Media queries
 
-Zoals je net gezien hebt, kun je door de breedte van tekst bepalen wanneer iets _lelijk_ wordt. Of onhandig te lezen. Als je dus meer ruimte op je scherm hebt, kun je meerdere _kolommen_ naast elkaar gaan zetten. Ook hierbij gelden nog steeds de vuistregels voor leesbare teksten.
+Zoals je net gezien hebt, kun je door de breedte van tekst bepalen wanneer iets _lelijk_ wordt. Of onhandig te lezen.
+
+Op kleine schermen gebruik je vaak één kolom voor je hele layout. De standaard _Flow Layout_ met een `max-width` werkt hier heel goed voor. Dit noemen we ook wel de _One Column Layout_.
+
+Zodra je meer ruimte op je scherm hebt, kun je meerdere _kolommen_ naast elkaar gaan zetten, met andere Layout Modes. Sommige elementen zullen over meerdere kolommen lopen (zoals een header of footer), sommige elementen zul je gaan opsplitsen. Ook hierbij gelden nog steeds de vuistregels voor leesbare teksten.
 
 > Start with the small screen first, then expand until it looks like shit. Time for a breakpoint!
 
@@ -146,4 +150,10 @@ Varieer met je `font-size` en `line-height`, voeg headings toe met een andere te
 
 ## En nu, voor komende vrijdag?
 
-Als je geoefend hebt met Layout Modes, breakpoints, Mobile First werken en geneste Media Queries, kun je verder met de opdracht voor de opdrachtgever. Vrijdag gaan we kijken hoe ver je bent gekomen met het combineren hiervan.
+Als je geoefend hebt met Layout Modes, breakpoints, Mobile First werken en geneste Media Queries, kun je verder met de opdracht voor de opdrachtgever.
+
+Begin met je HTML op een klein scherm, _expand until it looks like shit_, voeg breakpoints via media queries toe, en verander de layout. Gebruik voor elk breakpoint breakdown schetsen voor de layout, zoals je bij de Layout in CSS deeltaak hebt geoefend.
+
+Vergeet niet regelmatig je werk te committen en te pushen, waardoor je iteratief werkt.
+
+Vrijdag gaan we kijken hoe ver je bent gekomen met het combineren hiervan, krijg je feedback op je voortgang, en geef je andere studenten feedback op hun voortgang.
