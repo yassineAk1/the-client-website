@@ -73,7 +73,7 @@ Maak in je Learning Journal `leesbare-teksten.html` aan en kopieer daarin de vol
 </html>
 ```
 
-Experimenteer met deze code, en geef alle paragrafen een prettige _regellengte_. Je kunt de breedte bepalen met `em`, `px` of bijvoorbeeld `ch` _units_. Probeer uit welke waardes je kan gebruiken om een goede regellengte te krijgen. Bv `max-width: 60ch` of `max-width: 20em`. Tel hoeveel woorden er maximaal op een regel staan.
+Experimenteer in je editor en browser met deze code, en geef alle paragrafen een prettige _regellengte_. Je kunt de breedte bepalen met `em`, `px` of bijvoorbeeld `ch` _units_. Probeer uit welke waardes je kan gebruiken om een goede regellengte te krijgen. Bv `max-width: 60ch` of `max-width: 20em`. Tel hoeveel woorden er maximaal op een regel staan.
 
 Geef de `body` met `line-height` een _regelafstand_ die lekker werkt. Experimenteer met verschillende _units_. Wat gebeurt er als je `1.4` gebruikt? Wat als je `150%` gebruikt? Kun je hiervoor ook `px` gebruiken? Wat werkt het handigst?
 
@@ -91,19 +91,25 @@ Geef de `body` met `line-height` een _regelafstand_ die lekker werkt. Experiment
 - [`ch` unit @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/length#ch)
 - [`clamp()` @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 
-<!--
 
 ### Media queries
 
-[VIDEO van resize?]
+Zoals je net gezien hebt, kun je door de breedte van tekst bepalen wanneer iets _lelijk_ wordt. Of onhandig te lezen. Als je dus meer ruimte op je scherm hebt, kun je meerdere _kolommen_ naast elkaar gaan zetten. Ook hierbij gelden nog steeds de vuistregels voor leesbare teksten.
+
+> Start with the small screen first, then expand until it looks like shit. Time for a breakpoint!
+
+<!-- Video van resize? -->
+
+Met een _media query_ kun je het breakpoint omzetten in code:
 
 ```css
 body {
     font-family: sans-serif;
     font-size: 20px;
+    line-height: 1.4;
 
     /* Dit is ons eerste breakpoint, waarbij we het body element in Grid Layout zetten */
-    @media (min-width: 456px) {
+    @media (min-width: 678px) {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
@@ -115,11 +121,19 @@ Simpel. Twee vuistregels die hierbij belangrijk zijn om het simpel te houden:
 - We gebruiken het _Mobile First_ principe, te zien aan de `min-width` media query.
 - We gebruiken _CSS Nesting_ voor media queries, waardoor we de `body` selector niet hoeven te herhalen.
 
-Als je `max-width` media queries gebruikt, of geen gebruikt maakt van CSS Nesting, wordt het snel een onoverzichtelijk rommeltje. Let op: we hebben het hier niet over de `max-width` property, die de maximale breedte van een element bepaalt.
+Als je `max-width` media queries gebruikt, of geen gebruikt maakt van CSS Nesting, wordt het snel onoverzichtelijk. (Let op: we hebben het hier niet over de `max-width` property, die de maximale breedte van een element bepaalt.)
 
 🆕 CSS Nesting bestaat pas een paar jaar. Veel tutorials en artikelen op het Web (en “AI” tools die hiermee gevuld zijn) maken er daarom dus nog geen gebruik van. Hou hier rekening mee als je zelf op zoek gaat naar oplossingen.
 
 💡 Door Mobile First te werken, werk je met _Progressive Enhancement_, een belangrijk principe van het Web: je begint simpel op kleine schermen, en maakt het steeds complexer op schermen en browsers die meer aan kunnen.
+
+#### Opdracht
+
+Breid je `leesbare-teksten.html` experiment uit met media queries. Zet je devtools open, begin op een klein scherm, resize je scherm, bepaal wanneer je een breakpoint nodig hebt, en bepaal wat er dan gebeurt. Nest je media query in je selectors.
+
+Varieer met je `font-size` en `line-height`, voeg headings toe met een andere tekstgrootte, voeg plaatjes toe, of een footer die over meerdere kolommen loopt op verschillende breedtes.
+
+💪 Probeer extra breakpoints toe te voegen en tussen meer _Layout Modes_ te switchen op verschillende breakpoints.
 
 #### Bronnen
 
@@ -129,4 +143,6 @@ Als je `max-width` media queries gebruikt, of geen gebruikt maakt van CSS Nestin
 - 💪💪 Media queries al helemaal onder de knie? Kijk eens naar [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
 
 
--->
+## En nu, voor komende vrijdag?
+
+Als je geoefend hebt met Layout Modes, breakpoints, Mobile First werken en geneste Media Queries, kun je verder met de opdracht voor de opdrachtgever. Vrijdag gaan we kijken hoe ver je bent gekomen met het combineren hiervan.

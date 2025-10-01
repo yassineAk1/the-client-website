@@ -27,6 +27,7 @@ Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 revie
 3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of de verschillende Layout Modes logisch, duidelijk en bruikbaar zijn opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
 4. Schrijf verbeteringen of suggesties over de gebruikte CSS ook als reactie in het “Layout in CSS” issue.
 
+<!-- Nog iets toevoegen voor geneste media queries (en Mobile First werken?), uit de workshop van woensdag -->
 
 ### Bronnen
 
