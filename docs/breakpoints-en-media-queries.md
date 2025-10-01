@@ -98,7 +98,8 @@ Zoals je net gezien hebt, kun je door de breedte van tekst bepalen wanneer iets 
 
 > Start with the small screen first, then expand until it looks like shit. Time for a breakpoint!
 
-<!-- Video van resize? -->
+https://github.com/user-attachments/assets/0e31c1b0-d190-4b90-b07e-eb2c470c7257
+
 
 Met een _media query_ kun je het breakpoint omzetten in code:
 
