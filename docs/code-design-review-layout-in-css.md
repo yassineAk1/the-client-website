@@ -10,7 +10,7 @@ Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een 
 
 #### Deeltaak layout-in-css
 
-Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
+Deze code-review voer je uit aan jouw tafel mét de mentor; je bent dus met 4 studenten en één mentor. 
 
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
 2. Ga samen met jullie mentor de 9 basic layouts af. Per layout schrijft één student de CSS uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
