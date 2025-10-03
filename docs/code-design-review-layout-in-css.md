@@ -20,7 +20,7 @@ Deze code-review voer je uit aan jouw tafel mét de mentor; je bent dus met 3–
 
 #### Leertaak the-client-website
 
-Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's. Mentoren reviewen apart de code van de studenten aan tafel, ook met de volgende richtlijnen:
+Werk in duo's voor deze code-review: jullie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's. Mentoren reviewen apart de code van _alle_ studenten aan tafel, ook met de volgende richtlijnen:
 
 1. Pak het ontwerp in de Hifi schets of Figma erbij, en de gemaakte breakdownschets.
 2. Bespreek met elkaar welke Layout Modes geschikt zouden zijn voor de verschillende onderdelen in het ontwerp. Hint 1: Flow Layout, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout Modes zijn net als HTML elementen ook te nesten. Je kunt bijvoorbeeld dus een Flexible Box Layout gebruiken _in_ een Grid item.
