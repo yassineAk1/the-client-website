@@ -23,9 +23,10 @@ Deze code-review voer je uit aan jouw tafel mét de mentor; je bent dus met 3–
 Werk in duo's voor deze code-review: jullie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's. Mentoren reviewen apart de code van _alle_ studenten aan tafel, ook met de volgende richtlijnen:
 
 1. Pak het ontwerp in de Hifi schets of Figma erbij, en de gemaakte breakdownschets.
-2. Bespreek met elkaar welke Layout Modes geschikt zouden zijn voor de verschillende onderdelen in het ontwerp. Hint 1: Flow Layout, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout Modes zijn net als HTML elementen ook te nesten. Je kunt bijvoorbeeld dus een Flexible Box Layout gebruiken _in_ een Grid item.
-3. Bekijk of de CSS en media queries [_Mobile First_](breakpoints-en-media-queries.md) zijn opgezet. Maak een nieuw issue met uitleg over Mobile First ontwikkelen, als dat nog niet zo is. _Tip: kijk ook meteen of er met geneste CSS is gewerkt._
-4. Bekijk de website en de CSS (via devtools of in GitHub) en bepaal of de verschillende Layout Modes logisch, duidelijk en bruikbaar zijn opgezet. Schrijf je gedachten in een nieuw issue als reactie.
+2. Bekijk eerst de _One Column Layout_ en kijk of het volgens de [basisregels van leesbare tekst](breakpoints-en-media-queries.md) is opgemaakt. Maak een issue aan als iets ontbreekt.
+3. Bespreek met elkaar welke Layout Modes geschikt zouden zijn voor de verschillende onderdelen in het ontwerp. Hint 1: Flow Layout, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout Modes zijn net als HTML elementen ook te nesten. Je kunt bijvoorbeeld dus een Flexible Box Layout gebruiken _in_ een Grid item.
+4. Bekijk of de CSS en media queries [_Mobile First_](breakpoints-en-media-queries.md) zijn opgezet. Maak een nieuw issue met uitleg over Mobile First ontwikkelen, als dat nog niet zo is. _Tip: kijk ook meteen of er met geneste CSS is gewerkt._
+5. Bekijk de website en de CSS (via devtools of in GitHub) en bepaal of de verschillende Layout Modes logisch, duidelijk en bruikbaar zijn opgezet. Schrijf je gedachten in een nieuw issue als reactie.
 
 ### Bronnen
 
