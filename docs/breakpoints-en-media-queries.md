@@ -92,7 +92,7 @@ Geef de `body` met `line-height` een _regelafstand_ die lekker werkt. Experiment
 - [`clamp()` @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 
 
-### Media queries
+### Media queries (10:15)
 
 Zoals je net gezien hebt, kun je door de breedte van tekst bepalen wanneer iets _lelijk_ wordt. Of onhandig te lezen.
 
@@ -128,7 +128,7 @@ Simpel. Twee vuistregels die hierbij belangrijk zijn om het simpel te houden:
 
 Als je `max-width` media queries gebruikt, of geen gebruikt maakt van CSS Nesting, wordt het snel onoverzichtelijk. (Let op: we hebben het hier niet over de `max-width` property, die de maximale breedte van een element bepaalt.)
 
-🆕 CSS Nesting bestaat pas een paar jaar. Veel tutorials en artikelen op het Web (en “AI” tools die hiermee gevuld zijn) maken er daarom dus nog geen gebruik van. Hou hier rekening mee als je zelf op zoek gaat naar oplossingen.
+🆕 CSS Nesting bestaat pas een paar jaar. Veel tutorials en artikelen op het Web (en “AI” tools die hiermee gevuld zijn) maken er daarom dus nog geen gebruik van. Hou hier rekening mee als je zelf op zoek gaat naar oplossingen. _Ook je editor kent misschien nog niet de juiste syntax highlighting._
 
 💡 Door Mobile First te werken, werk je met _Progressive Enhancement_, een belangrijk principe van het Web: je begint simpel op kleine schermen, en maakt het steeds complexer op schermen en browsers die meer aan kunnen.
 
