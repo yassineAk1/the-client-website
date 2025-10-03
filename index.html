@@ -7,9 +7,12 @@
     <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
-<header>
+<header class="header">
     <a href="index.html" class="logo">
+      <picture>
+      <source srcset="assets/full-logo.webp" media="(min-width:696px)">
       <img src="assets/mobile-logo.svg" alt="mobile Logo">
+      </picture>
     </a>
  
  <nav class="nav-icons">
@@ -32,8 +35,8 @@
             <option value="girlfriend">Girlfriend</option>
         </select>
 
-            <label for="age-input">Age</label>
-            <input type="number" id="age-input" name="age" placeholder="age">
+            <label for="age-input" class="visually-hidden">Age</label>
+            <input type="number" id="age-input" name="age" placeholder="Age">
 
             <label for="occasion-select" class="visually-hidden">Choose an occasion</label>
         <select name="occasion" id="occasion-select"> 
@@ -45,7 +48,7 @@
     </form>
 
 
-    <section>
+    <section class="gifts">
         <a href="assets/gift1.svg" class="gift-listing">
             <h2>Weekend Trip</h2>
             <img src="assets/gift1.svg" alt="weekend trip">
@@ -76,6 +79,19 @@
             <img src="assets/gift8.svg" alt="two bookd">
         </a>
     </section>
+
+<form class="search-bar">
+  <fieldset>
+    <legend>Search for a gift</legend>
+    <label for="search-bar" class="visually-hidden">Search the site for a gift</label>
+    <input type="search" id="search-bar" name="q" placeholder="Search...">
+    <button type="submit" aria-label="Search">
+      <img src="assets/search-logo.svg" alt="">
+    </button>
+  </fieldset>
+</form>
+
+
  </main>
  
 <footer>
