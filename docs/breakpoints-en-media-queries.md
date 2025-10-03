@@ -128,7 +128,7 @@ Simpel. Twee vuistregels die hierbij belangrijk zijn om het simpel te houden:
 
 Als je `max-width` media queries gebruikt, of geen gebruikt maakt van CSS Nesting, wordt het snel onoverzichtelijk. (Let op: we hebben het hier niet over de `max-width` property, die de maximale breedte van een element bepaalt.)
 
-🆕 CSS Nesting bestaat pas een paar jaar. Veel tutorials en artikelen op het Web (en “AI” tools die hiermee gevuld zijn) maken er daarom dus nog geen gebruik van. Hou hier rekening mee als je zelf op zoek gaat naar oplossingen. _Ook je editor kent misschien nog niet de juiste syntax highlighting._
+🆕 CSS Nesting bestaat pas een paar jaar. Veel tutorials en artikelen op het Web (en “AI” tools die hiermee gevuld zijn) maken er daarom dus nog geen gebruik van. Hou hier rekening mee als je zelf op zoek gaat naar oplossingen. _Ook je editor kent misschien nog niet de juiste syntax highlighting, maar je browser ondersteunt dit wel._
 
 💡 Door Mobile First te werken, werk je met _Progressive Enhancement_, een belangrijk principe van het Web: je begint simpel op kleine schermen, en maakt het steeds complexer op schermen en browsers die meer aan kunnen.
 
