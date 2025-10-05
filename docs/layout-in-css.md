@@ -2,12 +2,10 @@
 
 ## Layout in CSS
 
-Normal flow of _Flow Layout_ is de manier waarop _block_- en _inline_-elementen
-op een pagina worden weergegeven voordat er wijzigingen met CSS worden
-aangebracht. 
+Normal flow of _Flow Layout_ is de manier waarop _block_- en _inline_-elementen op een pagina worden weergegeven voordat er wijzigingen met CSS worden aangebracht. 
 
 ![Block and inline layout in normal flow](flow-layout.png)
-*Dat is wat je ziet als je “kale” HTML in de browser bekijkt*
+*Dat is wat je ziet als je “kale” HTML in de browser bekijkt, en als je gekleurde randen om verschillende elementen zou zetten. Elk element is een rechthoekige “box”. In _Flow Layout_ staan _block level_ boxen onder elkaar, en _inline level_ boxen naast elkaar.*
 
 ### Layout Modes
 
@@ -23,12 +21,9 @@ Met CSS kun je met verschillende *modes* een layout kan maken. We onderscheiden 
 
 ### Layout in CSS oefenen
 
-Om te oefenen met verschillende Layout Modes, hebben we de deeltaak “Layout in CSS”
-voor je klaargemaakt. Alles wat je hierin leert, kun je daarna toepassen in deze
-leertaak, voor je opdrachtgever.
+Om te oefenen met verschillende Layout Modes, hebben we de deeltaak “Layout in CSS” voor je klaargemaakt. Alles wat je hierin leert, kun je daarna toepassen in deze leertaak, voor je opdrachtgever.
 
-Voer de [Layout in CSS deeltaak](https://github.com/fdnd-task/layout-in-css) uit,
-en ga door met de leertaak.
+Voer de [Layout in CSS deeltaak](https://github.com/fdnd-task/layout-in-css) uit, en ga door met de leertaak.
 
 
 ### Bronnen
