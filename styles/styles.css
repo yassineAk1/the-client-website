@@ -1,5 +1,6 @@
 * {
   line-height: 1.4;
+  
 } 
 
 body {
@@ -7,7 +8,7 @@ body {
   padding: 0rem;
 }
 
-.header {
+header {
   display: flex;
   background-color: rgb(255, 255, 255);
   justify-content: space-between;
@@ -50,8 +51,16 @@ body {
 select,
 input,
 .search-bar,
+h3,
 h2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  grid-column: 1 / -1;
+  color: rgb(236, 19, 63);
 }
 
 .gifts {
@@ -84,11 +93,23 @@ h2 {
   height: 100%;
 }
 
-.gift-listing h2 {
+.gift-listing h3 {
   display: flex;
   grid-area: title;
   margin: 1.5em;
   color: black;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  border-style:groove;
+  border-width: thin;
+  border-radius: 5% 5% 0% 0%;
+}
+
+fieldset {
+  border: 0;
 }
 
 footer {
