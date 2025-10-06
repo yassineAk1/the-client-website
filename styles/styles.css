@@ -60,7 +60,6 @@ h2 {
 
 
 .gift-listing {
-
   display: grid;
   justify-items: center;
   grid-template-areas:
