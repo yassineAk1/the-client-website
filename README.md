@@ -40,8 +40,7 @@ De HTML-structuur is semantisch opgebouwd met duidelijke secties:
 
 <fieldset> en <legend> samen met <select>  en <option> worden gebruikt in een label voor de filteropties, wat de toegankelijkheid verbetert.
 
-[https://github.com/yassineAk1/the-client-website/blob/main/index.html#L28-L38
-](https://github.com/yassineAk1/the-client-website/blob/9f4435ad10992b94c72429b1b93949546ee09dda/index.html#L28-L38)
+https://github.com/yassineAk1/the-client-website/blob/9f4435ad10992b94c72429b1b93949546ee09dda/index.html#L28-L38
 
 <picture> zorgt voor verschillende logo’s afhankelijk van schermbreedte.
 logo op klein scherm: 
