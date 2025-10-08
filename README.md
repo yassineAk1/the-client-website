@@ -31,7 +31,7 @@ Gebruikers kunnen filteren op relatie, leeftijd en gelegenheid om een geschikt c
   
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-HTML
+### HTML    
 
 De HTML-structuur is semantisch opgebouwd met duidelijke secties:
 `<header>` met het logo en navigatie-iconen
@@ -51,9 +51,9 @@ logo op klein scherm:
 
 logo op groot scherm:
  
-<img width="672" height="175" alt="Screenshot 2025-10-08 115841" src="https://github.com/user-attachments/assets/4e33ee4d-6898-4efb-b2d6-626a05df5ac9" />
+<img width="672" height="175" alt="Screenshot 2025-10-08 115841" src="https://github.com/user-attachments/assets/4e33ee4d-6898-4efb-b2d6-626a05df5ac9" />    
 
-CSS
+### CSS
 
 Belangrijkste stijlen en technieken:
 
