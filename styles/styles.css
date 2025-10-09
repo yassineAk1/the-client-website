@@ -16,6 +16,9 @@ header {
   background-color: #ffffff;
   justify-content: space-between;
   padding: 0.25rem;
+  background-image: url(../assets/strikje.png);
+  background-repeat: no-repeat;
+  background-position: center .5rem;
 }
 
 .logo img {
@@ -27,14 +30,19 @@ header {
 }
 
 
+
 .filters {
-  box-shadow: #e3e3e3 .3rem .3rem;
+  box-shadow: .1em .1em 2em rgb(197, 197, 197);
   margin: 0.1rem;
   display: flex;
   justify-content: center;
   background-color: rgb(235, 233, 233);
   border-radius: 1rem;
   font-size: x-large;
+}
+
+fieldset legend{
+  font-size: 3rem;
 }
 
 .filters input,
@@ -126,7 +134,17 @@ h2 {
   height: 3rem;
 }
 
-.gift-listing img {
+.gift-listing .saved1-icon,
+.gift-listing .saved2-icon {
+  position: absolute;
+  bottom: 1px;
+  width: 6rem;
+  height: 2rem;
+  object-fit: contain;
+  left: 0rem; 
+}
+
+.gift-listing img:not(.saved1-icon):not(.saved2-icon):not(.add-icon) {
   grid-area: image;
   object-fit: fill;
   width: 16.8rem;
